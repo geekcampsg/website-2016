@@ -2,7 +2,7 @@
  * Globals
  */
 
- body {
+body {
   font-family: Georgia, "Times New Roman", Times, serif;
   color: #555;
 }
@@ -24,7 +24,7 @@ h6, .h6 {
  * Override Bootstrap's default container.
  */
 
- @media (min-width: 1200px) {
+@media (min-width: 1200px) {
   .container {
     width: 970px;
   }
@@ -38,11 +38,11 @@ h6, .h6 {
   background-color: #00b534;
   color: #fff;
   padding: 30px;
- }
+}
 
- .jumbotron h2 {
+.jumbotron h2 {
   color: #fff;
- }
+}
 
 .blog-masthead {
   background-color: #00b534;
@@ -87,7 +87,7 @@ h6, .h6 {
  * Blog name and description
  */
 
- .blog-header {
+.blog-header {
   padding-top: 20px;
   padding-bottom: 20px;
 }
@@ -107,7 +107,7 @@ h6, .h6 {
  * Main column and sidebar layout
  */
 
- .blog-main {
+.blog-main {
   font-size: 18px;
   line-height: 1.5;
 }
@@ -213,5 +213,42 @@ h6, .h6 {
 }
 
 .fb-like span {
-   top: -5px;
+  top: -5px;
+}
+
+svg#logo {
+  stroke: none;
+  fill: #00b534;
+}
+@media screen and (max-width: 250px) {
+  svg#logo {
+    width: 100%;
+  }
+}
+@media screen and (min-width: 250px) {
+  svg#logo {
+    width: 250px;
+  }
+}
+svg#logo #power-button {
+  stroke-width: 6;
+}
+svg#logo .include {
+  fill: #fff;
+}
+svg#logo .exclude {
+  fill: #000;
+}
+svg#logo .stroke-include {
+  stroke: #fff;
+}
+svg#logo .stroke-exclude {
+  stroke: #000;
+}
+svg#logo .thin {
+  stroke-width: 2;
+}
+svg#logo #tent-poles {
+  stroke: #00b534;
+  stroke-width: 6;
 }
