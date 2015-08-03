@@ -1,8 +1,38 @@
 - name: Aysha Anggraini
   image: aysha.jpg
 
+- name: Björn Andersson
+  image: logo-black.svg
+
+- name: Chua Ruiwen
+  image: logo-black.svg
+
 - name: Lim Chee Aun
   image: cheeaun.jpg
 
+- name: Luther Goh
+  image: logo-black.svg
+
+- name: Michael Cheng
+  image: logo-black.svg
+
+- name: Michał Gajda
+  image: logo-black.svg
+
+- name: Mohit Kanwal
+  image: mohit.jpeg
+
 - name: Rahul AG
   image: rahul.png
+
+- name: Shanmugam Murugapalaniappan
+  image: logo-black.svg
+
+- name: Terence Lim
+  image: logo-black.svg
+
+- name: Valentine Chua
+  image: logo-black.svg
+
+- name: Yap Neng Giin
+  image: logo-black.svg
