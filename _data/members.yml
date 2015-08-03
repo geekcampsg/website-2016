@@ -2,7 +2,8 @@
   image: aysha.jpg
 
 - name: Björn Andersson
-  image: logo-black.svg
+  image: bjorn.jpg
+  link: https://github.com/gaqzi
 
 - name: Chua Ruiwen
   image: logo-black.svg
@@ -27,9 +28,15 @@
 
 - name: Rahul AG
   image: rahul.png
+  link: https://twitter.com/agrahul
 
-- name: Shanmugam Murugapalaniappan
-  image: logo-black.svg
+- name: Shanmugam MPl
+  image: shan.jpg
+  link: https://twitter.com/shannietron
+
+- name: Shruthi Suresh
+  image: shruthi.png
+  link: https://twitter.com/shurru
 
 - name: Terence Lim
   image: logo-black.svg
@@ -38,4 +45,5 @@
   image: logo-black.svg
 
 - name: Yap Neng Giin
-  image: logo-black.svg
+  image: nenggiin.jpg
+  link: https://twitter.com/nenggiin
