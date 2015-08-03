@@ -29,8 +29,8 @@ title: Geekcamp.SG - Organizers
     {% for member in members %}
       <div class="col-lg-2 col-sm-3 col-xs-4">
         <div class="thumbnail team">   
-          <a href="#">
-              <img src="images/{{ member.image }}" class="team-image img-responsive">
+          <a href="{% if member.link %}{{ member.link }}{% else %}#{% endif %}">
+            <img src="images/{{ member.image }}" class="team-image img-responsive">
           </a>
           <div class="caption team-name">
             {{ member.name }}
