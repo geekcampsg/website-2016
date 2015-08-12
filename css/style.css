@@ -52,6 +52,7 @@ h6, .h6 {
 
 /* Nav links */
 .blog-nav-item {
+  font-size: 1.4em;
   position: relative;
   display: inline-block;
   padding: 10px;
@@ -94,11 +95,11 @@ h6, .h6 {
 .blog-title {
   margin-top: 30px;
   margin-bottom: 0;
-  font-size: 60px;
+  font-size: 3.8em;
   font-weight: normal;
 }
 .blog-description {
-  font-size: 20px;
+  font-size: 1.5em;
   color: #999;
 }
 
@@ -108,7 +109,7 @@ h6, .h6 {
  */
 
 .blog-main {
-  font-size: 18px;
+  font-size: 1em;
   line-height: 1.5;
 }
 
@@ -152,7 +153,7 @@ h6, .h6 {
 
 .blog-post-title {
   margin-bottom: 5px;
-  font-size: 25px;
+  font-size: 1.7em;
 }
 
 .blog-post-meta {
@@ -207,7 +208,7 @@ h6, .h6 {
 
 .team-name {
   color: #3f4042;
-  font-size: 12px;
+  font-size: 1em;
   font-weight: 700;
   text-align: center;
 }
