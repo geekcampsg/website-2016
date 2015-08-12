@@ -28,13 +28,13 @@
   talk:
     title: 'Visualizing Space Music with Swift and SceneKit'
     description: >
-      If you have attended JSConf Asia last year you probably liked the Live
-      Audiovisual Performances talk by Charlie Roberts.
-      https://www.youtube.com/watch?v=2BIOINFSbMg
+      If you have attended JSConf Asia last year you probably liked the 
+      <a href="https://www.youtube.com/watch?v=2BIOINFSbMg">Live Audiovisual
+      Performances talk by Charlie Roberts</a>.
       <br><br>
-      And you might also have come across the sounds of interstellar space that
-      NASA shared couple of years ago.
-      http://science.nasa.gov/science-news/science-at-nasa/2013/01nov_ismsounds/
+      And you might also have come across the
+      <a href="http://science.nasa.gov/science-news/science-at-nasa/2013/01nov_ismsounds/">
+      sounds of interstellar space</a> that NASA shared couple of years ago.
       <br><br>
       We have two great masterpieces to get started with. In my talk I will
       briefly discuss about both and then jump into Swift (Apple's new
@@ -52,8 +52,8 @@
       programming and how/when to use them: Callbacks vs Promises vs Event
       Emitters vs Streams vs Generators vs Co-Routines vs ???
       <br><br>
-      A continuation/elaboration of the discussion we had in nodeup #90:
-      http://nodeup.com/ninety
+      A continuation/elaboration of the discussion we had in
+      <a href="http://nodeup.com/ninety">nodeup #90</a>.
 
 - slug: 'signaling-out-of-callback-hell'
   speaker:
@@ -72,8 +72,8 @@
       a solution to these problems. By modelling async flows as streams of
       values, and performing transformations on those streams, FRP enables such
       processes to be written in a safer, declarative manner. This talk would
-      use ReactiveCocoa (https://github.com/ReactiveCocoa/ReactiveCocoa) and
-      how it aids development on iOS and Mac as a case study.
+      use <a href="https://github.com/ReactiveCocoa/ReactiveCocoa">ReactiveCocoa
+      </a> and how it aids development on iOS and Mac as a case study.
 
 - slug: 'control-smartphone-attached-camera-swift'
   speaker:
@@ -82,14 +82,12 @@
   talk:
     title: 'Control Smartphone Attachable Camera with Swift'
     description: >
-      Sony released a smartphone attachable camera in 2013, which is attachable
-      to your smartphone. And They also open the Camera Remote API to
-      developers. I'd like to introduce the API library which I made to connect
-      to the camera and to control it.
-      <br><br>
-      https://github.com/akirahrkw/QXCameraKit
-      <br><br>
-      http://www.sony.co.uk/hub/lens-style-camera
+      Sony released a <a href="http://www.sony.co.uk/hub/lens-style-camera">
+      smartphone attachable camera</a> in 2013, which is attachable
+      to your smartphone. And they also opened the Camera Remote API to
+      developers. I'd like to introduce the
+      <a href="https://github.com/akirahrkw/QXCameraKit"> API library which I
+      made</a> to connect to the camera and to control it.
 
 - slug: 'building-self-driving-car'
   speaker:
