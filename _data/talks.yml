@@ -1,0 +1,123 @@
+- slug: 'webaudio-an-emerging-platform'
+  speaker:
+    name: 'Chinmay Pendharkar'
+    link: 'https://github.com/notthetup'
+  talk:
+    title: 'WebAudio: an Emerging Platform for Modern Audio Applications'
+    description: >
+      The Web Audio standard is enabling the creation of fully functional Audio
+      application made with open Web technologies. This talk will go through
+      the basics of the functionality that Web Audio enables, and highlight
+      some open source libraries, frameworks and projects built on top of Web
+      Audio.
+
+- slug: 'bitcoin-blockchain-permissionless-innovation'
+  speaker:
+    name: 'David Moskowitz'
+    link: 'https://github.com/david-sg'
+  talk:
+    title: 'Bitcoin & Blockchain Permissionless Innovation'
+    description: >
+      Overview of the Bitcoin Blockchain, and other Blockchains like Ethererum
+      and how you can build technologies on them.
+
+- slug: 'visualising-space-music-swift'
+  speaker:
+    name: 'Subhransu Behera'
+    link: 'https://github.com/subhransu'
+  talk:
+    title: 'Visualizing Space Music with Swift and SceneKit'
+    description: >
+      If you have attended JSConf Asia last year you probably liked the Live
+      Audiovisual Performances talk by Charlie Roberts.
+      https://www.youtube.com/watch?v=2BIOINFSbMg
+      <br><br>
+      And you might also have come across the sounds of interstellar space that
+      NASA shared couple of years ago.
+      http://science.nasa.gov/science-news/science-at-nasa/2013/01nov_ismsounds/
+      <br><br>
+      We have two great masterpieces to get started with. In my talk I will
+      briefly discuss about both and then jump into Swift (Apple's new
+      programming language) and SceneKit to create music visualization of the
+      interstellar sounds.
+
+- slug: 'compositional-reactive-programming-js'
+  speaker:
+    name: 'Tim Oxley'
+    link: 'https://github.com/timoxley'
+  talk:
+    title: 'Compositional Reactive Programming in JavaScript'
+    description: >
+      An outline of the ever-hot debate surrounding various patterns of async
+      programming and how/when to use them: Callbacks vs Promises vs Event
+      Emitters vs Streams vs Generators vs Co-Routines vs ???
+      <br><br>
+      A continuation/elaboration of the discussion we had in nodeup #90:
+      http://nodeup.com/ninety
+
+- slug: 'signaling-out-of-callback-hell'
+  speaker:
+    name: 'Omer Iqbal'
+    link: 'https://github.com/olenhad'
+  talk:
+    title: 'Signal-ing Out of Callback Hell'
+    description: >
+      Async processes are hard to reason about. Especially when you're
+      debugging them under four layers of nested callbacks.  From handling
+      complex UI interactions to coordinating parallel tasks, programming in an
+      async world can be frustrating, especially if you're using an imperative
+      programming languange/framework with mutable state. 
+      <br><br>
+      This talk will examine how Functional Reactive Programming (FRP) provides
+      a solution to these problems. By modelling async flows as streams of
+      values, and performing transformations on those streams, FRP enables such
+      processes to be written in a safer, declarative manner. This talk would
+      use ReactiveCocoa (https://github.com/ReactiveCocoa/ReactiveCocoa) and
+      how it aids development on iOS and Mac as a case study.
+
+- slug: 'control-smartphone-attached-camera-swift'
+  speaker:
+    name: 'Akira Hirakawa'
+    link: 'https://github.com/akirahrkw'
+  talk:
+    title: 'Control Smartphone Attachable Camera with Swift'
+    description: >
+      Sony released a smartphone attachable camera in 2013, which is attachable
+      to your smartphone. And They also open the Camera Remote API to
+      developers. I'd like to introduce the API library which I made to connect
+      to the camera and to control it.
+      <br><br>
+      https://github.com/akirahrkw/QXCameraKit
+      <br><br>
+      http://www.sony.co.uk/hub/lens-style-camera
+
+- slug: 'building-self-driving-car'
+  speaker:
+    name: 'Rohan Kapur'
+    link: 'https://github.com/mckapur'
+  talk:
+    title: 'Building a Self Driving Car'
+    description: >
+      At an AI Stanford summer camp, I used Machine Learning to build a self
+      driving car that operated in a Unity3D world. I would love to present how
+      I designed and tested these algorithms, and discuss how they performed.
+
+- slug: 'javascript-obfuscation'
+  speaker:
+    name: 'Prasanna K'
+    link: ''
+  talk:
+    title: 'JavaScript Obfuscation'
+    description: >
+      JavaScript Obfuscation demystified. Everyone writing JavaScript knows
+      that there are multiple ways of doing the same thing. Developers build
+      filters to catch malicious JavaScript, but a wily attacker can obfuscate
+      JavaScript so that filters can be bypassed.
+      <br><br>
+      This session will teach participants multiple JavaScript implementation
+      details and how these are used to build obfuscated code. We will also
+      discuss how to dissect already obfuscated code. The session is divided
+      into two parts: first part will expose participants to different
+      components of JavaScript internals and how they can be used to create
+      obfuscated code. The second part will help them to decipher obfuscated
+      code.

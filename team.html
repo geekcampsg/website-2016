@@ -4,41 +4,41 @@ title: Geekcamp.SG - Organizers
 
 
 {% include head.html %}
-  <body>
-    <div class="blog-masthead">
-      <div class="container">
-        <nav class="blog-nav">
-          <a class="blog-nav-item" href="index.html">Home</a>
-          <a class="blog-nav-item active" href="team.html">The Team</a>
-        </nav>
-      </div>
-    </div>
+<div class="blog-masthead">
+  <div class="container">
+    <nav class="blog-nav">
+      <a class="blog-nav-item" href="/index.html">Home</a>
+      <a class="blog-nav-item" href="/talks.html">Talks</a>
+      <a class="blog-nav-item active" href="/team.html">The Team</a>
+    </nav>
+  </div>
+</div>
 
-    <div class="container">
-      <div class="blog-header">
-        <h1 class="blog-title">Geekcamp.SG</h1>
-        <p class="lead blog-description">By Geeks. For Geeks</p>
-        <div class="fb-like" data-href="http://geekcamp.sg" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></div>
-        <a class="twitter-follow-button"
-        href="https://twitter.com/geekcamp">
-        Follow @geekcamp</a>
-    </div>
-    <p>These are the awesome people who made Geekcamp.SG possible:</p>
-    <div class="row text-center portfolio">
+<div class="container">
+  <div class="blog-header">
+    <h1 class="blog-title">Geekcamp.SG</h1>
+    <p class="lead blog-description">By Geeks. For Geeks</p>
+    <div class="fb-like" data-href="http://geekcamp.sg" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></div>
+    <a class="twitter-follow-button"
+      href="https://twitter.com/geekcamp">
+      Follow @geekcamp</a>
+  </div>
+  <p>These are the awesome people who made Geekcamp.SG possible:</p>
+  <div class="row text-center portfolio">
     {% assign members = site.data.members | sort: "name"  %}
     {% for member in members %}
-      <div class="col-lg-2 col-sm-3 col-xs-4">
-        <div class="thumbnail team">   
-          <a href="{% if member.link %}{{ member.link }}{% else %}#{% endif %}">
-            <img src="images/{{ member.image }}" class="team-image img-responsive">
-          </a>
-          <div class="caption team-name">
-            {{ member.name }}
-          </div>
+    <div class="col-lg-2 col-sm-3 col-xs-4">
+      <div class="thumbnail team">   
+        <a href="{% if member.link %}{{ member.link }}{% else %}#{% endif %}">
+          <img src="images/{{ member.image }}" class="team-image img-responsive">
+        </a>
+        <div class="caption team-name">
+          {{ member.name }}
         </div>
       </div>
-      <div class="clear"></div> 
+    </div>
+    <div class="clear"></div> 
     {% endfor %}
-    </div> <!-- row -->
-  </div><!-- Container -->
+  </div> <!-- row -->
+</div><!-- Container -->
 {% include footer.html %}
