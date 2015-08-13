@@ -170,3 +170,22 @@
       <br><br>
       Find out how Node.js and complementary tooling technologies can be used
       to build next generation solutions.
+
+- slug: why-mobile-web-slow
+  speaker:
+    name: Inian Parameshwaran
+    link: https://github.com/inian
+  talk:
+    title: 'Why the Mobile Web Is Slow and What You Can Do about It'
+    description: >
+      Performance of your websites matters a great deal - especially on mobile.
+      In this talk you will learn about what exactly slows down your website on
+      mobile phones. JS, CSS, HTML, images, fonts - all play a very important
+      role in how fast the browser is able to render your webpage. I will
+      discuss how the interplay of these components affects web-page performance
+      as a whole and how concepts like the critical rendering path can help you
+      increase your website’s performance manifold. Using these techniques, we
+      conducted an experiment on the top 100 Alexa websites. We were able to
+      show a speed improvement of upto 300% on a standard 3G connection in some
+      of these websites.
+
