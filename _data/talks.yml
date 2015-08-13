@@ -28,7 +28,7 @@
   talk:
     title: 'Visualizing Space Music with Swift and SceneKit'
     description: >
-      If you have attended JSConf Asia last year you probably liked the 
+      If you have attended JSConf Asia last year you probably liked the
       <a href="https://www.youtube.com/watch?v=2BIOINFSbMg">Live Audiovisual
       Performances talk by Charlie Roberts</a>.
       <br><br>
@@ -66,7 +66,7 @@
       debugging them under four layers of nested callbacks.  From handling
       complex UI interactions to coordinating parallel tasks, programming in an
       async world can be frustrating, especially if you're using an imperative
-      programming languange/framework with mutable state. 
+      programming languange/framework with mutable state.
       <br><br>
       This talk will examine how Functional Reactive Programming (FRP) provides
       a solution to these problems. By modelling async flows as streams of
