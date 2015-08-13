@@ -119,3 +119,54 @@
       components of JavaScript internals and how they can be used to create
       obfuscated code. The second part will help them to decipher obfuscated
       code.
+
+- slug: challenges-modernising-healthcare
+  speaker:
+    name: Cheng Yi Chiao
+    link: https://github.com/yitch
+  talk:
+    title: 'Challenges in Modernising Healthcare'
+    description: >
+      Introduction with the current landscape in healthcare, the antiquated
+      applications that power one of the most important aspects of our lives.
+      <br><br>
+      How technology and geeks can help to change the status quo and bring down
+      healthcare costs over the next few decades.
+
+- slug: eyedropper-node-js
+  speaker:
+    name: Avery
+    link: https://github.com/britskit
+  talk:
+    title: 'Eyedropper in Node.js'
+    description: >
+      I would like to share an eyedropper site I made that allows you to
+      drag-and-drop an image or paste from your clipboard then retrieve the
+      colour information from it instantly.
+
+- slug: 3d-vr-metaroom-markup
+  speaker:
+    name: Jia Hen
+    link: https://github.com/wizztjh
+  talk:
+    title: '3D VR Website with MetaRoom Markup'
+    description: >
+      I will be talking about how to create 3D VR website with metaroom-markup.
+      <br><br>
+      More info in <a href="https://github.com/wizztjh/metaroom-markup">
+      wizztjh/metaroom-markup</a> github.
+
+- slug: node-js-and-friends
+  speaker:
+    name: Hong Hua
+    link: https://github.com/honghuac
+  talk:
+    title: 'Node.js and Friends'
+    description: >
+      Node.js is arguably the hottest platform for application development.
+      <br><br>
+      Built on Chrome’s JavaScript runtime, it is the preferred secret sauce in
+      scalable mobile and Internet applications of today.
+      <br><br>
+      Find out how Node.js and complementary tooling technologies can be used
+      to build next generation solutions.
