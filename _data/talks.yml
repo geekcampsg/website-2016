@@ -189,3 +189,20 @@
       show a speed improvement of upto 300% on a standard 3G connection in some
       of these websites.
 
+- slug: magarena-game-ai
+  speaker:
+    name: Melvin Zhang
+    link: https://github.com/melvinzhang
+  talk:
+    title: 'Lessons from developing an AI to play Magic: The Gathering'
+    description: >
+      Although computers have beaten humans at Chess, Checkers, and even
+      Jeopardy, games with complex board states (such as Go) or hidden
+      information (such as Poker) have remained out of reach. Magic: the
+      Gathering is a strategy card game that has <em>both</em> complex board
+      states and hidden information.
+      <br><br>
+      <a href="https://magarena.github.io/">Magarena</a>'s goal is to develop
+      an open source competitive computer MTG player. This talk distills some
+      of the lessons learnt in developing an AI that is able to make decisions
+      under uncertainly.
