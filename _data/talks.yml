@@ -194,7 +194,7 @@
     name: Melvin Zhang
     link: https://github.com/melvinzhang
   talk:
-    title: 'Lessons from developing an AI to play Magic: The Gathering'
+    title: 'Lessons from Developing an AI to Play Magic: The Gathering'
     description: >
       Although computers have beaten humans at Chess, Checkers, and even
       Jeopardy, games with complex board states (such as Go) or hidden
