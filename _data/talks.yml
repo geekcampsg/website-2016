@@ -206,3 +206,41 @@
       an open source competitive computer MTG player. This talk distills some
       of the lessons learnt in developing an AI that is able to make decisions
       under uncertainly.
+
+- slug: how-to-build-web-interface-for-iot
+  speaker:
+    name: Michael Cheng
+    link: https://github.com/miccheng
+  talk:
+    title: 'How to Build a Web Interface for Your Internet of Things Project'
+    description: >
+      I will share about how i build the web interfaces for the door access
+      system and the web cam in HackerspaceSG. And how you can make your own
+      with your Raspberry Pi.
+
+- slug: id-taap-that
+  speaker:
+    name: Natalie Tay
+    link: ''
+  talk:
+    title: "I'd TaaP that"
+    description: >
+      "I'd TaaP that" talks about using
+      <a href="https://telegram.org">Telegram</a> as a Platform. (Telegram is a
+      cloud-based mobile and desktop messaging app with a focus on security and
+      speed.)
+      <br><br>
+      My intent of this talk is to share the many ways we can make use of the
+      Telegram Bot API to implement 'apps' that you can use with your favourite
+      people, or even just for yourself. 
+      <br><br>
+      The Telegram client can potentially save you a significant amount of
+      development time, due to the simplicity of implementing your Bot and the
+      already-ready simple-to-use UI.
+      <br><br>
+      If you still can't conceptualise this, think of this really simple problem
+      which I have solved with TaaP: my favourite people can't decide where we
+      should eat for our dinner meeting later.
+      <br><br>
+      I will be demonstrating the entire process (if time permits :D) of solving
+      my problem above, in Ruby.
