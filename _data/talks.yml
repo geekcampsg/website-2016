@@ -31,11 +31,13 @@
       If you have attended JSConf Asia last year you probably liked the
       <a href="https://www.youtube.com/watch?v=2BIOINFSbMg">Live Audiovisual
       Performances talk by Charlie Roberts</a>.
-      <br><br>
+
+
       And you might also have come across the
       <a href="http://science.nasa.gov/science-news/science-at-nasa/2013/01nov_ismsounds/">
       sounds of interstellar space</a> that NASA shared couple of years ago.
-      <br><br>
+
+
       We have two great masterpieces to get started with. In my talk I will
       briefly discuss about both and then jump into Swift (Apple's new
       programming language) and SceneKit to create music visualization of the
@@ -51,7 +53,8 @@
       An outline of the ever-hot debate surrounding various patterns of async
       programming and how/when to use them: Callbacks vs Promises vs Event
       Emitters vs Streams vs Generators vs Co-Routines vs ???
-      <br><br>
+
+
       A continuation/elaboration of the discussion we had in
       <a href="http://nodeup.com/ninety">nodeup #90</a>.
 
@@ -67,7 +70,8 @@
       complex UI interactions to coordinating parallel tasks, programming in an
       async world can be frustrating, especially if you're using an imperative
       programming languange/framework with mutable state.
-      <br><br>
+
+
       This talk will examine how Functional Reactive Programming (FRP) provides
       a solution to these problems. By modelling async flows as streams of
       values, and performing transformations on those streams, FRP enables such
@@ -111,7 +115,8 @@
       that there are multiple ways of doing the same thing. Developers build
       filters to catch malicious JavaScript, but a wily attacker can obfuscate
       JavaScript so that filters can be bypassed.
-      <br><br>
+
+
       This session will teach participants multiple JavaScript implementation
       details and how these are used to build obfuscated code. We will also
       discuss how to dissect already obfuscated code. The session is divided
@@ -129,7 +134,8 @@
     description: >
       Introduction with the current landscape in healthcare, the antiquated
       applications that power one of the most important aspects of our lives.
-      <br><br>
+
+
       How technology and geeks can help to change the status quo and bring down
       healthcare costs over the next few decades.
 
@@ -152,7 +158,8 @@
     title: '3D VR Website with MetaRoom Markup'
     description: >
       I will be talking about how to create 3D VR website with metaroom-markup.
-      <br><br>
+
+
       More info in <a href="https://github.com/wizztjh/metaroom-markup">
       wizztjh/metaroom-markup</a> github.
 
@@ -164,10 +171,12 @@
     title: 'Node.js and Friends'
     description: >
       Node.js is arguably the hottest platform for application development.
-      <br><br>
+
+
       Built on Chrome’s JavaScript runtime, it is the preferred secret sauce in
       scalable mobile and Internet applications of today.
-      <br><br>
+
+
       Find out how Node.js and complementary tooling technologies can be used
       to build next generation solutions.
 
@@ -181,13 +190,15 @@
       Performance of your websites matters a great deal - especially on mobile.
       In this talk you will learn about what exactly slows down your website on
       mobile phones. JS, CSS, HTML, images, fonts - all play a very important
-      role in how fast the browser is able to render your webpage. I will
-      discuss how the interplay of these components affects web-page performance
-      as a whole and how concepts like the critical rendering path can help you
-      increase your website’s performance manifold. Using these techniques, we
-      conducted an experiment on the top 100 Alexa websites. We were able to
-      show a speed improvement of upto 300% on a standard 3G connection in some
-      of these websites.
+      role in how fast the browser is able to render your webpage.
+
+
+      I will discuss how the interplay of these components affects web-page
+      performance as a whole and how concepts like the critical rendering path
+      can help you increase your website’s performance manifold. Using these
+      techniques, we conducted an experiment on the top 100 Alexa websites. We
+      were able to show a speed improvement of upto 300% on a standard 3G
+      connection in some of these websites.
 
 - slug: magarena-game-ai
   speaker:
@@ -201,7 +212,8 @@
       information (such as Poker) have remained out of reach. Magic: the
       Gathering is a strategy card game that has <em>both</em> complex board
       states and hidden information.
-      <br><br>
+
+
       <a href="https://magarena.github.io/">Magarena</a>'s goal is to develop
       an open source competitive computer MTG player. This talk distills some
       of the lessons learnt in developing an AI that is able to make decisions
@@ -229,18 +241,22 @@
       <a href="https://telegram.org">Telegram</a> as a Platform. (Telegram is a
       cloud-based mobile and desktop messaging app with a focus on security and
       speed.)
-      <br><br>
+
+
       My intent of this talk is to share the many ways we can make use of the
       Telegram Bot API to implement 'apps' that you can use with your favourite
       people, or even just for yourself. 
-      <br><br>
+
+
       The Telegram client can potentially save you a significant amount of
       development time, due to the simplicity of implementing your Bot and the
       already-ready simple-to-use UI.
-      <br><br>
+
+
       If you still can't conceptualise this, think of this really simple problem
       which I have solved with TaaP: my favourite people can't decide where we
       should eat for our dinner meeting later.
-      <br><br>
+
+
       I will be demonstrating the entire process (if time permits :D) of solving
       my problem above, in Ruby.

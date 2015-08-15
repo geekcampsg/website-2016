@@ -20,7 +20,7 @@
   </div>
   <h2>{{ page.talk.title }}</h2>
   <h3>By <a href="{{ page.speaker.link }}">{{ page.speaker.name }}</a></h3>
-  <blockquote>{{ page.talk.description }}</blockquote>
+  <blockquote>{{ page.talk.description | newline_to_br }}</blockquote>
   <h3>Vote</h3>
   <p>
     Vote for this talk by clicking the Facebook 'like' button below.
