@@ -1,3 +1,4 @@
+{% capture page_description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% endcapture %}
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -5,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <meta name="description" content="{{ page.description | truncate: 160 }}">
+    <meta name="description" content="{{ page_description }}">
     <meta name="author" content="">
 
     <title>{{ page.title }}</title>
@@ -22,7 +23,7 @@
     <meta property="og:title" content="{{ page.title }}">
     <meta property="og:url" content="{{ site.url }}{{ page.url }}">
     <meta property="og:image" content="http://www.geekcamp.sg/images/logo.png">
-    <meta property="og:description" content="{{ page.description | truncate: 160 }}">
+    <meta property="og:description" content="{{ page_description }}">
     <meta property="og:type" content="website">
     <meta property="fb:admins" content="516714785">
   </head>
