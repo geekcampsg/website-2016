@@ -10,5 +10,7 @@ markdown: kramdown
 page_gen:
   - data: 'talks'
     template: 'talk'
-    name: 'slug'
     dir: 'talks'
+    name: 'slug'
+    title: 'talk.title'
+    description: 'talk.description'

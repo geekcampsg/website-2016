@@ -1,11 +1,12 @@
 # Generate pages from individual records in yml files
+# (c) 2015 Rahul AG
 # (c) 2014 Adolfo Villafiorita
 # Distributed under the conditions of the MIT License
 
 module Jekyll
 
   class DataPage < Page
-    def initialize(site, base, dir, data, name, template)
+    def initialize(site, base, dir, data, name, title, descr, template)
       @site = site
       @base = base
       @dir = dir
@@ -14,7 +15,8 @@ module Jekyll
       self.process(@name)
       self.read_yaml(File.join(base, '_layouts'), template + ".html")
       self.data.merge!(data)
-      self.data['title'] = data[name]
+      self.data['title'] = find_nested_value(data, title)
+      self.data['description'] = find_nested_value(data, descr)
     end
 
     private
@@ -24,6 +26,14 @@ module Jekyll
       name = name.gsub(/[^\w\s_-]+/, '')
       name = name.gsub(/(^|\b\s)\s+($|\s?\b)/, '\\1\\2')
       name = name.gsub(/\s+/, '_')
+    end
+
+    def find_nested_value(hash, key)
+      tmp = hash
+      for k in key.split('.') do
+        tmp = tmp[k]
+      end
+      tmp
     end
   end
 
@@ -37,12 +47,14 @@ module Jekyll
           # todo: check input data correctness
           template = data_spec['template'] || data_spec['data']
           name = data_spec['name']
+          title = data_spec['title']
+          descr = data_spec['description']
           dir = data_spec['dir'] || data_spec['data']
           
           if site.layouts.key? template
             records =  site.data[data_spec['data']]
             records.each do |record|
-              site.pages << DataPage.new(site, site.source, dir, record, name, template)
+              site.pages << DataPage.new(site, site.source, dir, record, name, title, descr, template)
             end
           else
             puts "error. could not find #{data_file}" if not File.exists?(data_file)
