@@ -260,3 +260,20 @@
 
       I will be demonstrating the entire process (if time permits :D) of solving
       my problem above, in Ruby.
+
+- slug: a-whirlwind-tour-of-web-technologies
+  speaker:
+    name: Sofia Tania
+    link: http://twitter.com/stania_ang
+  talk:
+    title: 'A Whirlwind Tour of Web Technologies'
+    description: >
+      At the beginning was the humble HTTP 0.9, which only allows GETting a
+      hypertext document. Then came support for images and many things fancy.
+      Then came interactive sites (hello Mocha.. ahem, JavaScript). Then...
+      &lt;snip&gt;
+
+
+      It was not exactly a smooth ride, but how did the web get to where it
+      is today? What holds for the future? (hint: HTTP/2)
+
