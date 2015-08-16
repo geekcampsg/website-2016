@@ -230,6 +230,22 @@
       system and the web cam in HackerspaceSG. And how you can make your own
       with your Raspberry Pi.
 
+- slug: a-whirlwind-tour-of-web-technologies
+  speaker:
+    name: Sofia Tania
+    link: http://twitter.com/stania_ang
+  talk:
+    title: 'A Whirlwind Tour of Web Technologies'
+    description: >
+      At the beginning was the humble HTTP 0.9, which only allows GETting a
+      hypertext document. Then came support for images and many things fancy.
+      Then came interactive sites (hello Mocha.. ahem, JavaScript). Then...
+      <snip>
+
+
+      It was not exactly a smooth ride, but how did the web get to where it
+      is today? What holds for the future? (hint: HTTP/2)
+
 - slug: id-taap-that
   speaker:
     name: Natalie Tay
