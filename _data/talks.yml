@@ -277,3 +277,24 @@
       It was not exactly a smooth ride, but how did the web get to where it
       is today? What holds for the future? (hint: HTTP/2)
 
+- slug: build-your-first-computer-with-fpga
+  speaker:
+    name: Michał J. Gajda
+    link: https://github.com/mgajda
+  talk:
+    title: Build Your First Computer with FPGA
+    description: >
+      Open source allowed us to get familiar with inner working of big software
+      projects, and open hardware efforts do the same to hardware systems.
+
+
+      We may use Field Programmable Gate Array technology to program our own
+      microprocessors architectures, and computer systems.
+
+
+      So why not to do it during GeekCamp?
+
+
+      I show you how to design a simple microprocessor system with its own
+      memory, serial console interface, and a video controller.
+
