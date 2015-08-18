@@ -298,3 +298,42 @@
       I show you how to design a simple microprocessor system with its own
       memory, serial console interface, and a video controller.
 
+- slug: containers-done-right-in-archlinux
+  speaker:
+    name: Kai Hendry
+    link: https://github.com/kaihendry
+  talk:
+    title: Containers Done Right… in Archlinux
+    description: >
+      Your operating sucks if you can't quickly & easily spin up containers. I
+      will introduce you to systemd-nspawn where you will all wet yourselves in
+      pure geek joy if you haven't been to toilet in the last 24 hours.
+
+- slug: developer-happiness-with-terminal-shortcuts
+  speaker:
+    name: Bryan Lim
+    link: https://github.com/ytbryan
+  talk:
+    title: Developer Happiness with Terminal Shortcuts
+    description: >
+      This talk is about a rubygem called aka - a shortcut to manage terminal
+      shortcut for the productivity and happiness of developers.
+
+
+      aka improves your workflow and give you more time to focus on the things
+      that matter.
+
+
+      aka started as a weekend project and became open source in 2015. aka was
+      created while on a travel trip to Ho Chi Minh and Penang.
+
+- slug: infrastructure-as-code-with-ansible
+  speaker:
+    name: Zakatell Nur Kanda
+    link: https://github.com/zkanda
+  talk:
+    title: Infrastructure as Code with Ansible
+    description: >
+      Ansible is one of popular Configuration Management written in Python, it
+      powers a lot of Sysadmin as well as Developers to easily configure their
+      servers.
