@@ -7,7 +7,7 @@ url: "http://www.geekcamp.sg"
 # Build settings
 markdown: kramdown
 
-exclude: ['Gemfile', 'Gemfile.lock', 'README.md']
+exclude: ['Gemfile', 'Gemfile.lock', 'README.md', 'circle.yml', 'vendor']
 
 page_gen:
   - data: 'talks'

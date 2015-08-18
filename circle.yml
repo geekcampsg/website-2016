@@ -1,0 +1,19 @@
+machine:
+  ruby:
+    version: 2.2.2
+
+test:
+  override:
+    - echo 'static site; no tests'
+
+deployment:
+  production:
+    branch: master
+    commands:
+      - bundle exec jekyll build
+      - rsync -e ssh -av --delete _site/ deploy-ci@services.geekcamp.sg:geekcamp
+  staging:
+    branch: dev
+    commands:
+      - bundle exec jekyll build
+      - rsync -e ssh -av --delete _site/ deploy-ci@services.geekcamp.sg:geekcamp.staging
