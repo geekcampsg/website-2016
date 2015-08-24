@@ -276,8 +276,6 @@ svg#logo #tent-poles {
   -webkit-flex-flow: space-between;
   -ms-flex-flow: space-between;
   flex-flow: space-between;
-  align-items: stretch;
-  align-content: flex-start;
   border: 1px solid #777;
   margin: 0.5rem;
 }
