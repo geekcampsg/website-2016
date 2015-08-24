@@ -337,3 +337,27 @@
       Ansible is one of popular Configuration Management written in Python, it
       powers a lot of Sysadmin as well as Developers to easily configure their
       servers.
+
+- slug: from-tupperware-to-auv
+  speaker:
+    name: Goh Eng Wei
+    link: https://github.com/gohengwei
+  talk:
+    title: From Tupperware to Autonomous Underwater Vehicle
+    description: >
+      Autonomous Vehicles are systems of the future enabled by increasing
+      computational power, advancing electronics and artificial intelligence.
+      The distance between man and machine has never been closer.
+
+
+      Enter the Autonomous Underwater Vehicle (AUV). AUVs explore a domain close
+      to our hearts but as dangerous and difficult as space: the infinite ocean.
+      The applications for these systems range from ocean survey to mine
+      counter-measure to wreckage search and rescue.
+
+
+      My talk will share on the exciting journey I embarked on in AUV design
+      and development from tupperware AUVs to the State-of-the-art AUVs. These
+      AUVs have been deployed to compete against the best minds from around the
+      world in completing a series of challenges much resembling some of the
+      real world problems we face today.
