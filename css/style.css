@@ -103,6 +103,12 @@ h6, .h6 {
   color: #999;
 }
 
+@media screen and (max-width: 370px) {
+  .blog-title {
+    font-size: 3em;
+  }
+}
+
 
 /*
  * Main column and sidebar layout
@@ -252,4 +258,120 @@ svg#logo .thin {
 svg#logo #tent-poles {
   stroke: #00b534;
   stroke-width: 6;
+}
+
+.flex-table {
+  width: 100%;
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-flex-wrap: nowrap;
+  -ms-flex-wrap: nowrap;
+  flex-wrap: nowrap;
+  -webkit-flex-flow: space-between;
+  -ms-flex-flow: space-between;
+  flex-flow: space-between;
+  align-items: stretch;
+  align-content: flex-start;
+  border: 1px solid #777;
+  margin: 0.5rem;
+}
+
+.flex-table-header {
+  display: none;
+}
+@media screen and (min-width: 500px) {
+  .flex-table-header {
+    font-weight: 700;
+    background-color: #f2f2f2;
+  }
+}
+
+.flex-row {
+  width: 100%;
+  border: 1px solid #777;
+}
+.flex-row:nth-of-type(even) {
+  background-color: #f2f2f2;
+}
+
+.flex-row:nth-of-type(odd) {
+  background-color: #ffffff;
+}
+
+@media screen and (min-width: 500px) {
+  .flex-row {
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    -webkit-flex-wrap: nowrap;
+    -ms-flex-wrap: nowrap;
+    flex-wrap: nowrap;
+    border: none;
+  }
+  .flex-row:nth-of-type(even) {
+    background-color: #ffffff;
+  }
+
+  .flex-row:nth-of-type(odd) {
+    background-color: #f2f2f2;
+  }
+}
+
+.flex-cell {
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -webkit-flex-grow: 2;
+  -ms-flex-grow: 2;
+  flex-grow: 2;
+  -webkit-flex-basis: 0;
+  -ms-flex-basis: 0;
+  flex-basis: 0;
+  padding: 0.5em;
+  word-wrap: normal;
+}
+
+.flex-cell:before {
+  content: attr(data-header);
+  width: 30%;
+  font-weight: 700;
+}
+
+@media screen and (min-width: 500px) {
+  .flex-cell {
+    border: 1px solid #777;
+    padding: 0.5em;
+  }
+  .flex-cell:before {
+    content: none;
+  }
+  .flex-cell-wide {
+    -webkit-flex-grow: 5;
+    -ms-flex-grow: 5;
+    flex-grow: 5;
+  }
+  .flex-cell-narrow {
+    -webkit-flex-grow: 1;
+    -ms-flex-grow: 1;
+    flex-grow: 1;
+  }
 }
