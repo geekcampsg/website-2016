@@ -361,3 +361,19 @@
       AUVs have been deployed to compete against the best minds from around the
       world in completing a series of challenges much resembling some of the
       real world problems we face today.
+
+- slug: build-wifi-gadgets-using-esp8266
+  speaker:
+    name: Baoshi
+    link: https://github.com/baoshi
+  talk:
+    title: Build WiFi Gadgets using ESP8266
+    description: >
+      ESP8266 is the new internet's favorite WiFi micro-controller. I will share
+      current development landscape of this platform, do's  and don't's on
+      project design, as well as some success/failure projects.
+
+
+      I will also demonstrate the MQTT Clock I built for Makefaire SG, detailing
+      its software architecture and the convenience of having a RTOS inside
+      ESP8266.
