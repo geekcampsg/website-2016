@@ -377,3 +377,41 @@
       I will also demonstrate the MQTT Clock I built for Makefaire SG, detailing
       its software architecture and the convenience of having a RTOS inside
       ESP8266.
+
+- slug: beamforming-acoustic-source-localisation
+  speaker:
+    name: Anshu
+    link: https://github.com/L0newolf
+  talk:
+    title: >
+      Beamforming and Acoustic Source Localisation in Noisy Underwater
+      Environments in Real-time
+    description: >
+      Using an Adapteva Parallella board to do beamforming and localisation of
+      acoustic sources (maybe a particular fish, a scuba diver or snapping
+      shrimp colonies) with a hydrophone array mounted on an Autonomous
+      Underwater Vehicle, in real time. The same idea has also been extended to
+      do acoustic imaging of underwater environments using only underwater
+      ambient noise, although the real-time performance was achieved using quite
+      powerful nVidia CUDA capable GPUs.
+
+- slug: talk-via-satellites-and-maybe-the-moon
+  hidden: true
+  speaker:
+    name: Roland Turner
+    link: https://github.com/rolandturner
+  talk:
+    title: Talk via Satellites, and Maybe the Moon
+    description: >
+      Why is ham radio still interesting now that the Internet is everywhere,
+      and smartphones are in our pockets?
+
+
+      I will talk about orbital prediction, free-hand antenna orientation,
+      full-duplex radio operation, continual doppler-shift correction, an
+      antenna the size of a tennis court, high-electron-mobility transistors,
+      liquid nitrogen (won't have any at the talk...), digital signal processing
+      and signal estimation and several related topics.
+
+
+      If I get adventurous, a live demonstration will be attempted.

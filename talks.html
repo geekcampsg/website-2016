@@ -32,6 +32,7 @@ description: Attending Geekcamp.SG 2015? Vote for the talks you're interested in
       <div class="flex-cell flex-cell-narrow">Vote</div>
     </div>
     {% for talk in talks %}
+    {% if talk.hidden != true %}
     <div class="flex-row">
       <div class="flex-cell" data-header="Title"><a href="/{{ talk.slug | datapage_url: 'talks' }}">{{ talk.talk.title }}</a></div>
       <div class="flex-cell" data-header="Speaker">
@@ -46,6 +47,7 @@ description: Attending Geekcamp.SG 2015? Vote for the talks you're interested in
         </p>
       </div>
     </div>
+    {% endif %}
     {% endfor %}
   </div>
 </div><!-- Container -->
