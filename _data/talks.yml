@@ -16,7 +16,7 @@
     name: David Moskowitz
     link: https://github.com/david-sg
   talk:
-    title: 'Bitcoin & Blockchain Permissionless Innovation'
+    title: Bitcoin & Blockchain Permissionless Innovation
     description: >
       Overview of the Bitcoin Blockchain, and other Blockchains like Ethererum
       and how you can build technologies on them.
@@ -26,7 +26,7 @@
     name: Subhransu Behera
     link: https://github.com/subhransu
   talk:
-    title: 'Visualizing Space Music with Swift and SceneKit'
+    title: Visualizing Space Music with Swift and SceneKit
     description: >
       If you have attended JSConf Asia last year you probably liked the
       <a href="https://www.youtube.com/watch?v=2BIOINFSbMg">Live Audiovisual
@@ -48,7 +48,7 @@
     name: Tim Oxley
     link: https://github.com/timoxley
   talk:
-    title: 'Compositional Reactive Programming in JavaScript'
+    title: Compositional Reactive Programming in JavaScript
     description: >
       An outline of the ever-hot debate surrounding various patterns of async
       programming and how/when to use them: Callbacks vs Promises vs Event
@@ -63,7 +63,7 @@
     name: Omer Iqbal
     link: https://github.com/olenhad
   talk:
-    title: 'Signal-ing Out of Callback Hell'
+    title: Signal-ing Out of Callback Hell
     description: >
       Async processes are hard to reason about. Especially when you're
       debugging them under four layers of nested callbacks.  From handling
@@ -84,7 +84,7 @@
     name: Akira Hirakawa
     link: https://github.com/akirahrkw
   talk:
-    title: 'Control Smartphone Attachable Camera with Swift'
+    title: Control Smartphone Attachable Camera with Swift
     description: >
       Sony released a <a href="http://www.sony.co.uk/hub/lens-style-camera">
       smartphone attachable camera</a> in 2013, which is attachable
@@ -98,7 +98,7 @@
     name: Rohan Kapur
     link: https://github.com/mckapur
   talk:
-    title: 'Building a Self Driving Car'
+    title: Building a Self Driving Car
     description: >
       At an AI Stanford summer camp, I used Machine Learning to build a self
       driving car that operated in a Unity3D world. I would love to present how
@@ -109,7 +109,7 @@
     name: Prasanna K
     link: ''
   talk:
-    title: 'JavaScript Obfuscation'
+    title: JavaScript Obfuscation
     description: >
       JavaScript Obfuscation demystified. Everyone writing JavaScript knows
       that there are multiple ways of doing the same thing. Developers build
@@ -130,7 +130,7 @@
     name: Cheng Yi Chiao
     link: https://github.com/yitch
   talk:
-    title: 'Challenges in Modernising Healthcare'
+    title: Challenges in Modernising Healthcare
     description: >
       Introduction with the current landscape in healthcare, the antiquated
       applications that power one of the most important aspects of our lives.
@@ -144,7 +144,7 @@
     name: Avery
     link: https://github.com/britskit
   talk:
-    title: 'Eyedropper in Node.js'
+    title: Eyedropper in Node.js
     description: >
       I would like to share an eyedropper site I made that allows you to
       drag-and-drop an image or paste from your clipboard then retrieve the
@@ -155,7 +155,7 @@
     name: Jia Hen
     link: https://github.com/wizztjh
   talk:
-    title: '3D VR Website with MetaRoom Markup'
+    title: 3D VR Website with MetaRoom Markup
     description: >
       I will be talking about how to create 3D VR website with metaroom-markup.
 
@@ -168,7 +168,7 @@
     name: Hong Hua
     link: https://github.com/honghuac
   talk:
-    title: 'Node.js and Friends'
+    title: Node.js and Friends
     description: >
       Node.js is arguably the hottest platform for application development.
 
@@ -185,7 +185,7 @@
     name: Inian Parameshwaran
     link: https://github.com/inian
   talk:
-    title: 'Why the Mobile Web Is Slow and What You Can Do about It'
+    title: Why the Mobile Web Is Slow and What You Can Do about It
     description: >
       Performance of your websites matters a great deal - especially on mobile.
       In this talk you will learn about what exactly slows down your website on
@@ -205,7 +205,7 @@
     name: Melvin Zhang
     link: https://github.com/melvinzhang
   talk:
-    title: 'Lessons from Developing an AI to Play Magic: The Gathering'
+    title: Lessons from Developing an AI to Play Magic: The Gathering
     description: >
       Although computers have beaten humans at Chess, Checkers, and even
       Jeopardy, games with complex board states (such as Go) or hidden
@@ -224,7 +224,7 @@
     name: Michael Cheng
     link: https://github.com/miccheng
   talk:
-    title: 'How to Build a Web Interface for Your Internet of Things Project'
+    title: How to Build a Web Interface for Your Internet of Things Project
     description: >
       I will share about how i build the web interfaces for the door access
       system and the web cam in HackerspaceSG. And how you can make your own
@@ -266,7 +266,7 @@
     name: Sofia Tania
     link: https://twitter.com/stania_ang
   talk:
-    title: 'A Whirlwind Tour of Web Technologies'
+    title: A Whirlwind Tour of Web Technologies
     description: >
       At the beginning was the humble HTTP 0.9, which only allows GETting a
       hypertext document. Then came support for images and many things fancy.
