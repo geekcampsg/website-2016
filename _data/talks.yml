@@ -416,3 +416,19 @@
 
 
       If I get adventurous, a live demonstration will be attempted.
+
+- slug: hardware-prototyping-made-easy
+  speaker:
+    name: Kenneth Lim
+    link: https://github.com/kennethlimcp
+  talk:
+    title: Hardware Prototyping Made Easy(ier)
+    description: >
+      Allow me to share with you some tips and tricks on how I spin up new
+      boards from scratch using a wide variety of tools and services that I
+      experimented with in my hardware journey. Enter the world of Hardware and
+      peep into a hardware Geek's toolbox!
+
+
+      Here are the designs that will be shared:
+      <a href="https://github.com/kennethlimcp/oshw-design">GitHub</a>
