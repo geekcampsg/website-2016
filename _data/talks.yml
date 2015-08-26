@@ -299,6 +299,7 @@
       memory, serial console interface, and a video controller.
 
 - slug: containers-done-right-in-archlinux
+  hidden: true
   speaker:
     name: Kai Hendry
     link: https://github.com/kaihendry
