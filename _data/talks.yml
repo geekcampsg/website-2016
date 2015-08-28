@@ -432,3 +432,16 @@
 
       Here are the designs that will be shared:
       <a href="https://github.com/kennethlimcp/oshw-design">GitHub</a>
+
+- slug: fgpas-101
+  speaker:
+    name: Brahim Hamadicharef
+    link: https://github.com/bhamadicharef
+  talk:
+    title: 'FPGAs 101: Everything You Need to Know to Get Started'
+    description: >
+      In this talk I will try to give an overview of Field Programmable Gate
+      Array (FPGA) including manufacturers, FPGA family and evaluation boards,
+      software suite and tool chains, programming language, fun and serious
+      projects, and how we hope to create some passionate and enthusiastic FPGA
+      Community in Singapore.
