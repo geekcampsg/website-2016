@@ -373,3 +373,36 @@ svg#logo #tent-poles {
     flex-grow: 1;
   }
 }
+
+/* SPONSOR LOGOS */
+
+.sponsor-large img {
+  max-width: 300px;
+  max-height: 300px;
+  margin-bottom: 4em;
+}
+
+.sponsor-medium img {
+  max-width: 180px;
+  max-height: 180px;
+  margin-bottom: 4em;
+}
+
+.sponsor-small img {
+  max-width: 100px;
+  max-height: 100px;
+  margin-bottom: 4em;
+}
+
+.sponsor-large:before,
+.sponsor-medium:before,
+.sponsor-small:before {
+  content: attr(data-sponsor);
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 700;
+  font-size: 1.5em;
+  color: #333;
+  display: block;
+  width: 100%;
+  height: 2em;
+}
