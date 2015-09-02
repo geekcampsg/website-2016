@@ -32,7 +32,7 @@ description: The team behind Geekcamp.SG 2015
     <div class="col-lg-2 col-sm-3 col-xs-4">
       <div class="thumbnail team">   
         <a href="{% if member.link %}{{ member.link }}{% else %}#{% endif %}">
-          <img src="images/{{ member.image }}" class="team-image img-responsive">
+          <img src="/images/team/{{ member.image }}" class="team-image img-responsive">
         </a>
         <div class="caption team-name">
           {{ member.name }}
