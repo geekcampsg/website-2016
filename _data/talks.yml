@@ -446,3 +446,25 @@
       software suite and tool chains, programming language, fun and serious
       projects, and how we hope to create some passionate and enthusiastic FPGA
       Community in Singapore.
+
+- slug: building-smarter-applications-using-cognitive-computing
+  speaker:
+    name: Justin Lee
+    link: https://github.com/juslee
+  talk:
+    title: Building Smarter Applications Using Cognitive Computing
+    description: >
+      Cognitive computing can be broken down into several sub-classes, like
+      machine learning, natural language processing, reasoning and decision
+      making, big data analytics, etc., allowing the system to learn, reason and
+      engage in a more natural personalised way.
+
+
+      Developers can now create smarter applications using a subset of these
+      cognitive computing capabilities through services from Watson, reasoning
+      on a corpus, and suggestion an answer that is "best" rather than "right".
+
+
+      This talk will go through the basics of cognitive computing that can
+      supplement your applications, and provide you with an insight into some
+      interesting ideas that can be possible through these services.
