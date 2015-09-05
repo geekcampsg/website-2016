@@ -468,3 +468,64 @@
       This talk will go through the basics of cognitive computing that can
       supplement your applications, and provide you with an insight into some
       interesting ideas that can be possible through these services.
+
+- slug: building-ios-infinite-math-game
+  speaker:
+    name: Kien Tran
+    link: https://github.com/thkeen
+  talk:
+    title: Building iOS Infinite Math Game (NUM)
+    description: >
+      Going to share many best practices I learned from building my first math
+      game (numapp.co) on iOS, with one friend designer. Theoretical coding time
+      could be around 1 month, but actual iteration time was 6 months.
+
+      <ul>
+      <li>Having your first game concept</li>
+      <li>Play a lot of other people's games to find inspiration</li>
+      <li>Iterate through many designs + app icons (show case)</li>
+      <li>Finding sound effects, music (super fun! But needs patience)</li>
+      <li>Implement onboarding</li>
+      <li>Launching on ProductHunt</li>
+      <li>Lastly, refactor and open source the custom UIButton in iOS (its shape
+      is original from Threes)</li>
+      </ul>
+
+      To be added more if can find anything else interesting!
+
+- slug: from-source-code-to-containers
+  speaker:
+    name: Heng Kuan Yen
+    link: https://github.com/gigablah
+  talk:
+    title: From Source Code to Containers
+    description: >
+      Docker and other containerization platforms have taken the open source
+      world by storm. An ever increasing number of organizations are
+      distributing their applications in container form.
+
+
+      However, not all applications are simple binaries. How do you Dockerize a
+      complex, modular application made up of multiple components? How do you
+      handle differences between development and production environments? How do
+      you incorporate this into your build pipeline? And through all this, how
+      do you keep your containers lean?
+
+
+      I will share what I've learnt so far in managing the complexity of going
+      from source code to containers.
+
+- slug: containers-what-we-need-to-know
+  hidden: true
+  speaker:
+    name: Sriram Narayanan
+    link: ''
+  talk:
+    title: Containers &mdash; What We Need to Know
+    description: >
+      There is a lot of buzz around containers, with everyone associating
+      themselves with these as a sure-shot approach to success! But what exactly
+      are containers, and more importantly, what are they not!? After a mild
+      amount of basics to get everyone on the same page, we engage in some
+      myth-busting, diagnosis tracing, and some cautionary notes on what you
+      still need to take care of.
