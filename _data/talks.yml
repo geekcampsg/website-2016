@@ -530,3 +530,21 @@
       amount of basics to get everyone on the same page, we engage in some
       myth-busting, diagnosis tracing, and some cautionary notes on what you
       still need to take care of.
+
+- slug: scalable-logging-with-elasticsearch-for-microservices-architecture
+  speaker:
+    name: Angad Singh
+    link: 'https://t.co/as'
+  talk:
+    title: Scalable Logging with Elasticsearch
+    description: >
+      ELK or Elasticsearch-Logstash-Kibana is a well known stack for storing
+      and analyzing logs. But what happens when you have thousands of requests
+      per second and tens of microservices and you want to analyze logs at 
+      each level? Scaling the stack at that point becomes a challenge.
+      At Viki we handle thousands of requests per second and we store the logs
+      at each microservice level for easier debugging later.
+      I will share my experiences with building a scalable setup for ELK.
+      
+      For fun, I will also use a small setup for analyzing Twitter public stream
+      with sentiment analysis using python.
