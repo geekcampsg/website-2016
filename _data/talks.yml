@@ -494,6 +494,7 @@
       To be added more if can find anything else interesting!
 
 - slug: from-source-code-to-containers
+  hidden: true
   speaker:
     name: Heng Kuan Yen
     link: https://github.com/gigablah
