@@ -549,3 +549,15 @@
 
       For fun, I will also use a small setup for analyzing Twitter public stream
       with sentiment analysis using python.
+
+- slug: secure-e7y-nomadic-toolkit
+  hidden: true
+  speaker:
+    name: Harish Pillay
+    link: https://github.com/harishpillay
+  talk:
+    title: Secure E7y Nomadic Toolkit
+    description: >
+      Access to the Internet is taken for granted. What happens when it fails
+      catastophically? This talk will cover how you can set up your own network
+      using everyday tech. First presented at FOSSAsia 2015.
