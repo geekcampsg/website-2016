@@ -4,6 +4,8 @@ require 'json'
 require 'net/http'
 require 'yaml'
 
+NUM_TALKS = 12
+
 def talk_uri(talk)
   "http://www.geekcamp.sg/talks/#{talk['slug']}.html"
 end
@@ -24,6 +26,10 @@ end
 talks.sort_by! { |t| t[:votes] }
 talks.reverse!
 
-talks.each do |talk|
+talks.take(NUM_TALKS).each do |talk|
+  puts "#{talk[:votes]}\t#{talk_uri talk}"
+end
+puts '-'*20 + '>8' + '-'*20
+talks.drop(NUM_TALKS).each do |talk|
   puts "#{talk[:votes]}\t#{talk_uri talk}"
 end
