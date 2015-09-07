@@ -8,8 +8,11 @@ def talk_uri(talk)
   "http://www.geekcamp.sg/talks/#{talk['slug']}.html"
 end
 
-talks_yml = '../_data/talks.yml'
-talks = YAML.load_file('_data/talks.yml')
+def script_path
+  File.expand_path(File.dirname(__FILE__))
+end
+
+talks = YAML.load_file("#{script_path}/../_data/talks.yml")
 
 talks.each do |talk|
   uri = URI("http://graph.facebook.com/#{talk_uri talk}")
