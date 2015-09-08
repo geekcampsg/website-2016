@@ -561,3 +561,18 @@
       Access to the Internet is taken for granted. What happens when it fails
       catastophically? This talk will cover how you can set up your own network
       using everyday tech. First presented at FOSSAsia 2015.
+
+- slug: dr-redlove-or-how-i-learned-to-stop-worrying-and-love-the-nodered
+  speaker:
+    name: Stephan "NotesSensei" Wissel
+    link: https://github.com/stwissel
+  talk:
+    title: 'Dr. Redlove or: How I Learned to Stop Worrying and Love the NodeRED'
+    description: >
+      NodeRED is a JavaScript application escaped from IBM Research. I will
+      introduce NodeRED and its uses for IoT application in both cloud and your
+      local compute (like a RaspberryPI), as well as how to bend NodeRED to your
+      will by extending it with your own extensions and functionality.
+
+
+      Naked code will be provided.
