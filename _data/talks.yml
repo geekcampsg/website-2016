@@ -576,3 +576,27 @@
 
 
       Naked code will be provided.
+
+- slug: robotic-rooster-with-python
+  speaker:
+    name: Nick Lewty
+    link: https://github.com/superted6851
+  talk:
+    title: Robotic Rooster with Python
+    description: >
+      I found a dumb rooster toy on the void deck of my HDB. So I adopted him
+      and made him smart by installing a micro-controller, which greatly
+      improved his vocabulary. He can now walk and talk on command from an
+      android app. Yes I am a geek and I like to do pointless geek things.
+
+
+      This is talk is about more than just a man adopting a child's toy. Its
+      about how geeks, makers and hobbyist can become mono-linguistic and just
+      harness the power of the swiss army knife of programing that is python,
+      which greatly speeds up development. I will explain how I used micropython
+      to program a micro-controller and python kivy to write a platform
+      independent UI, which includes Android and iOS.
+
+
+      Hopefully Sir Nuggets the Rooster will make an appearance to tell you how
+      he feels.
