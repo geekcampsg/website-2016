@@ -600,3 +600,22 @@
 
       Hopefully Sir Nuggets the Rooster will make an appearance to tell you how
       he feels.
+
+- slug: plug-in-to-the-haskell-compiler
+  speaker:
+    name: Michał J. Gajda
+    link: https://github.com/mgajda
+  talk:
+    title: Plug in to the Haskell Compiler
+    description: >
+      This talk would tell how to plug into the full power of the most popular
+      Haskell compiler - GHC.
+
+
+      It will include:
+      <ul>
+      <li>writing your first macro - Template Haskell program</li>
+      <li>writing your first compiler plugin</li>
+      <li>using GHC to provide configuration capability just like XMonad config
+      files</li>
+      </ul>
