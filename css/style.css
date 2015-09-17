@@ -406,3 +406,8 @@ svg#logo #tent-poles {
   width: 100%;
   height: 2em;
 }
+
+.common-event {
+  text-align: center;
+  font-weight: 700;
+}
