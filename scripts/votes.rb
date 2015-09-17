@@ -29,9 +29,9 @@ talks.sort_by! { |t| t[:votes] }
 talks.reverse!
 
 talks.take(NUM_TALKS).each do |talk|
-  puts "#{talk[:votes]}\t#{talk_uri talk}"
+  puts "#{talk[:votes]}\t#{talk['slug']}"
 end
 puts '-'*20 + '>8' + '-'*20
 talks.drop(NUM_TALKS).each do |talk|
-  puts "#{talk[:votes]}\t#{talk_uri talk}"
+  puts "#{talk[:votes]}\t#{talk['slug']}"
 end
