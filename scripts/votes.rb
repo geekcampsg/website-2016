@@ -23,21 +23,15 @@ talks.each do |talk|
   talk[:votes] = js.fetch('shares', 0)
 end
 
+talks.select! { |t| !t['hidden'] }
+
 talks.sort_by! { |t| t[:votes] }
 talks.reverse!
 
-def tag_hidden(talk)
-  if talk.fetch('hidden', false)
-    'H '
-  else
-    '  '
-  end
-end
-
 talks.take(NUM_TALKS).each do |talk|
-  puts "#{tag_hidden talk}#{talk[:votes]}\t#{talk_uri talk}"
+  puts "#{talk[:votes]}\t#{talk_uri talk}"
 end
 puts '-'*20 + '>8' + '-'*20
 talks.drop(NUM_TALKS).each do |talk|
-  puts "#{tag_hidden talk}#{talk[:votes]}\t#{talk_uri talk}"
+  puts "#{talk[:votes]}\t#{talk_uri talk}"
 end
