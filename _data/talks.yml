@@ -22,6 +22,7 @@
       and how you can build technologies on them.
 
 - slug: visualising-space-music-swift
+  hidden: true
   speaker:
     name: Subhransu Behera
     link: https://github.com/subhransu
