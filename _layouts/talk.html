@@ -1,0 +1,28 @@
+{% include head.html %}
+<div class="blog-masthead">
+  <div class="container">
+    <nav class="blog-nav">
+      <a class="blog-nav-item" href="/index.html">Home</a>
+      <a class="blog-nav-item" href="/schedule.html">Schedule</a>
+      <a class="blog-nav-item" href="/live.html">Live</a>
+      <a class="blog-nav-item active" href="/talks.html">Talks</a>
+      <a class="blog-nav-item" href="/team.html">The Team</a>
+    </nav>
+  </div>
+</div>
+
+<div class="container">
+  <div class="blog-header">
+    <h1 class="blog-title">Geekcamp.SG</h1>
+    <p class="lead blog-description">By Geeks. For Geeks</p>
+    <!-- <div class="fb-like" data-href="http://geekcamp.sg" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></div> -->
+    <!-- <a class="twitter-follow-button" -->
+      <!-- href="https://twitter.com/geekcamp"> -->
+      <!-- Follow @geekcamp</a> -->
+  </div>
+  <h2>{{ page.talk.title }}</h2>
+  <h3>By <a href="{{ page.speaker.link }}">{{ page.speaker.name }}</a></h3>
+  <blockquote>{{ page.talk.description | newline_to_br }}</blockquote>
+
+</div><!-- Container -->
+{% include footer.html %}

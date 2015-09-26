@@ -2,42 +2,55 @@
   image: aysha.jpg
 
 - name: Björn Andersson
-  image: logo-black.svg
-
-- name: Chua Ruiwen
-  image: logo-black.svg
+  image: bjorn.jpg
+  link: https://github.com/gaqzi
 
 - name: Justin Lee
   image: justinlee.jpg
+  link: https://twitter.com/triplez82
 
 - name: Lim Chee Aun
   image: cheeaun.jpg
 
 - name: Luther Goh
-  image: logo-black.svg
+  image: luther.jpg
 
 - name: Michael Cheng
-  image: logo-black.svg
+  image: michael.jpg
 
 - name: Michał Gajda
-  image: logo-black.svg
+  image: michal.jpg
 
 - name: Mohit Kanwal
-  image: mohit.jpeg
+  image: mohit.jpg
+  link: https://twitter.com/mohitkanwal
 
 - name: Rahul AG
   image: rahul.png
   link: https://twitter.com/agrahul
 
+- name: Ruiwen Chua
+  image: ruiwen.jpg
+  link: https://github.com/ruiwen
+
 - name: Shanmugam MPl
   image: shan.jpg
   link: https://twitter.com/shannietron
 
+- name: Shruthi Suresh
+  image: shruthi.png
+  link: https://twitter.com/shurru
+
 - name: Terence Lim
-  image: logo-black.svg
+  image: terence.jpg
 
 - name: Valentine Chua
-  image: logo-black.svg
+  image: valentine.jpg
+
+- name: Vishnu Premm
+  image: vishnu.jpg
+  link: https://twitter.com/burnflare
 
 - name: Yap Neng Giin
-  image: logo-black.svg
+  image: nenggiin.jpg
+  link: https://twitter.com/nenggiin

@@ -3,7 +3,16 @@ email: info@geekcamp.sg
 description: >
   Geekcamp.SG website
 baseurl: ""
-url: "http://www.geekcamp.sg" # the base hostname & protocol for your site
-
+url: "http://www.geekcamp.sg"
 # Build settings
 markdown: kramdown
+
+exclude: ['Gemfile', 'Gemfile.lock', 'README.md', 'circle.yml', 'vendor', 'scripts']
+
+page_gen:
+  - data: 'talks'
+    template: 'talk'
+    dir: 'talks'
+    name: 'slug'
+    title: 'talk.title'
+    description: 'talk.description'
