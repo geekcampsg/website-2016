@@ -34,6 +34,7 @@ description: Attending Geekcamp.SG 2016? Vote for the talks you're interested in
       <div class="flex-cell">Title</div>
       <div class="flex-cell">Speaker</div>
       <div class="flex-cell flex-cell-wide">Description</div>
+      <div class="flex-cell flex-cell-narrow">Vote</div>
     </div>
     {% for talk in talks %}
     {% if talk.hidden != true %}
@@ -45,6 +46,11 @@ description: Attending Geekcamp.SG 2016? Vote for the talks you're interested in
         </a>
       </div>
       <div class="flex-cell flex-cell-wide" data-header="Description"><p>{{ talk.talk.description | newline_to_br }}</p></div>
+      <div class="flex-cell flex-cell-narrow" data-header="Vote">
+        <p>
+          <div class="fb-like" data-href="{{ site.url }}/{{ talk.slug | datapage_url: 'talks' }}" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></div>
+        </p>
+      </div>
     </div>
     {% endif %}
     {% endfor %}
