@@ -3,7 +3,7 @@ email: info@geekcamp.sg
 description: >
   Geekcamp.SG website
 baseurl: ""
-url: "http://www.geekcamp.sg"
+url: "https://www.geekcamp.sg"
 # Build settings
 markdown: kramdown
 
