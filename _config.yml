@@ -1,9 +1,9 @@
-title: Geekcamp.SG
+title: Geekcamp.SG 2015
 email: info@geekcamp.sg
 description: >
-  Geekcamp.SG website
+  Geekcamp.SG 2015
 baseurl: ""
-url: "http://www.geekcamp.sg"
+url: "http://www.geekcamp.sg/2015"
 # Build settings
 markdown: kramdown
 

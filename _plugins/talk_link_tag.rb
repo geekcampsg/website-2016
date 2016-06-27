@@ -11,7 +11,7 @@ module Jekyll
     def render(context)
       talks = context.registers[:site].data['talks']
       talk = talks.find { |t| t['slug'] == @slug }
-      %Q(<a href="/talks/#{talk['slug']}.html">#{talk['talk']['title']}</a>)
+      %Q(<a href="talks/#{talk['slug']}.html">#{talk['talk']['title']}</a>)
     end
   end
 end
