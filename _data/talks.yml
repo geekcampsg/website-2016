@@ -7,3 +7,29 @@
     title: Sample Talk 2016
     description: >
       Lorem impsum whatever else.
+
+- slug: swift-3-whats-in-it-for-developers
+  speaker:
+    name: Mugunth Kumar
+    link: https://github.com/MugunthKumar/
+  talk:
+    title: "Swift 3: What's in it for developers?"
+    description: >
+      The talk will be technical, centered around Swift 3 which is expected to be launched to public during second week of September alongside iOS 10.
+
+
+      The talk will cover what's new in Swift 3 and why most iOS developers should adopt Swift sooner.
+
+- slug: ractive-js-make-your-life-as-webdev-simpler
+  speaker:
+    name: Le Viet Hong
+  talk:
+    title: "RactiveJS: Make Your Life as a Webapp Developer Simpler"
+    description: >
+      Many tools exist to help you build web apps, but very few deal with the fundamental problem: HTML, while excellent at describing static documents, wasn't designed for interactivity. Ractive changes that. 
+
+
+      RactiveJs is very simple to get started and it's powerful enough to help you get things done perfectly without the hassle and learning curve.
+
+
+      It also has great performance.
