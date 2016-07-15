@@ -33,3 +33,22 @@
 
 
       It also has great performance.
+
+- slug: exploring-one-source-repo-to-rule-them-all
+  speaker:
+    name: Björn Andersson
+    link: https://github.com/gaqzi
+  talk:
+    title: Exploring the Option of Having One Source Repo to Rule Them All
+    description: >
+      Both Google and Facebook keep all their source code in one single repository, is there something there to learn from them?
+
+
+      This talk will go over advantages and disadvantages to putting all your code into one repository. There's also some interesting aspects to how your CI/CD pipeline starts looking when you're taking everything from the same repository.
+
+
+      Likely talking points will be:
+      <ul>
+      <li>Git vs Mercurial</li>
+      <li>CI/CD servers and how they'll work with this (Concourse, GoCD, and some cloud solution like CircleCI or SnapCI)</li>
+      </ul>
