@@ -52,3 +52,15 @@
       <li>Git vs Mercurial</li>
       <li>CI/CD servers and how they'll work with this (Concourse, GoCD, and some cloud solution like CircleCI or SnapCI)</li>
       </ul>
+
+- slug: the-magic-behind-engineers-sg
+  speaker:
+    name: Michael Cheng
+    link: https://github.com/miccheng
+  talk:
+    title: The Magic Behind Engineers.SG
+    description: >
+      As the creator of <a href="https://engineers.sg" target="_blank">Engineer.SG</a>, I spent 1 year fine-tuning the techniques used in capturing and videographing conference and meetup talks. The system has now been replicated and taught to more than 40 volunteers.
+
+
+      I will now share how it is done with the GeekCamp.SG audience.
