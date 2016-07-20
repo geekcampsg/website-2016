@@ -72,3 +72,29 @@
 
 
       I will now share how it is done with the GeekCamp.SG audience.
+
+- slug: category-theory-for-mortals
+  speaker:
+    name: Stephan February
+    link: https://github.com/stephanfeb
+  talk:
+    title: Category Theory for Mortals
+    description: >
+      Category theory is an esoteric branch of math which has found a use in Functional Programming
+      (Haskell, Scala etc.). I will explain what Category Theory is, why it is useful and show you
+      how you can use in your own work.
+
+
+      If you don't know how to make a Monad by the end of my talk, I will have failed.
+
+- slug: ai-and-bots-just-hype
+  speaker:
+    name: Bhagaban Behera
+  talk:
+    title: "AI & Bots: Just a Hype?"
+    description: >
+      In this talk, we discuss the rise of AI and Bots. Will bots eat mobile apps? Is it just a hype
+      or a gimmick? Who are the various players in the market and what are they doing? As a
+      developer, which can the major platforms to use to roll out AI/NLP solutions.
+      How to use them and what are their drawbacks? Whats the current trends and whats the future?
+      And a bit more...
