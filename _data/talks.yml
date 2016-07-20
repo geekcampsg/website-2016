@@ -15,7 +15,8 @@
   talk:
     title: "Swift 3: What's in it for developers?"
     description: >
-      The talk will be technical, centered around Swift 3 which is expected to be launched to public during second week of September alongside iOS 10.
+      The talk will be technical, centered around Swift 3 which is expected to be launched to public
+      during second week of September alongside iOS 10.
 
 
       The talk will cover what's new in Swift 3 and why most iOS developers should adopt Swift sooner.
@@ -26,10 +27,13 @@
   talk:
     title: "RactiveJS: Make Your Life as a Webapp Developer Simpler"
     description: >
-      Many tools exist to help you build web apps, but very few deal with the fundamental problem: HTML, while excellent at describing static documents, wasn't designed for interactivity. Ractive changes that. 
+      Many tools exist to help you build web apps, but very few deal with the fundamental problem:
+      HTML, while excellent at describing static documents, wasn't designed for interactivity.
+      Ractive changes that.
 
 
-      RactiveJs is very simple to get started and it's powerful enough to help you get things done perfectly without the hassle and learning curve.
+      RactiveJs is very simple to get started and it's powerful enough to help you get things done
+      perfectly without the hassle and learning curve.
 
 
       It also has great performance.
@@ -41,16 +45,20 @@
   talk:
     title: Exploring the Option of Having One Source Repo to Rule Them All
     description: >
-      Both Google and Facebook keep all their source code in one single repository, is there something there to learn from them?
+      Both Google and Facebook keep all their source code in one single repository, is there
+      something there to learn from them?
 
 
-      This talk will go over advantages and disadvantages to putting all your code into one repository. There's also some interesting aspects to how your CI/CD pipeline starts looking when you're taking everything from the same repository.
+      This talk will go over advantages and disadvantages to putting all your code into one
+      repository. There's also some interesting aspects to how your CI/CD pipeline starts looking
+      when you're taking everything from the same repository.
 
 
       Likely talking points will be:
       <ul>
       <li>Git vs Mercurial</li>
-      <li>CI/CD servers and how they'll work with this (Concourse, GoCD, and some cloud solution like CircleCI or SnapCI)</li>
+      <li>CI/CD servers and how they'll work with this (Concourse, GoCD, and some cloud solution
+      like CircleCI or SnapCI)</li>
       </ul>
 
 - slug: the-magic-behind-engineers-sg
