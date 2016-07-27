@@ -100,3 +100,15 @@
       developer, which can the major platforms to use to roll out AI/NLP solutions.
       How to use them and what are their drawbacks? Whats the current trends and whats the future?
       And a bit more...
+
+- slug: how-i-built-an-oss-webapp-with-6k-stars
+  speaker:
+    name: An Phan
+    link: https://github.com/phanan
+  talk:
+    title: How I Built an OSS Web App with 6k Stars on GitHub
+    description: >
+      The talk would be about the progress of developing, promoting, and maintaining Koel
+      (https://github.com/phanan/koel), a web-based music streaming app which has gained decent
+      popularity (viral on Reddit and HackerNews, trended on GitHub, featured on Product Hunt,
+      currently having 6,347 GitHub stars and growing), personal achievements, and lessons learned.
