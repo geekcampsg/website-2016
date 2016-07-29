@@ -112,3 +112,17 @@
       (https://github.com/phanan/koel), a web-based music streaming app which has gained decent
       popularity (viral on Reddit and HackerNews, trended on GitHub, featured on Product Hunt,
       currently having 6,347 GitHub stars and growing), personal achievements, and lessons learned.
+
+- slug: kubernetes-for-small-organisations
+  speaker:
+    name: Ruiwen Chua
+    link: https://github.com/ruiwen
+  talk:
+    title: "Kubernetes for Small Organisations: Is it worth it?"
+    description: >
+      A common refrain is that "big" orchestration frameworks like Kubernetes may not be worth the
+      effort to implement, particularly in small organisations that are resource-strapped. I'd like
+      to share our experience at Lomotif in shifting our production architecture over to Kubernetes,
+      the rationale for doing so, and naturally, the wins and frustrations we experienced along the way.
+
+      We'll also do a quick overview of Kubernetes and its major components and concepts.
