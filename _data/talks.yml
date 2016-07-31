@@ -125,4 +125,5 @@
       to share our experience at Lomotif in shifting our production architecture over to Kubernetes,
       the rationale for doing so, and naturally, the wins and frustrations we experienced along the way.
 
+
       We'll also do a quick overview of Kubernetes and its major components and concepts.
