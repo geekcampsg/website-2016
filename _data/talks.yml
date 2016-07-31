@@ -127,3 +127,34 @@
 
 
       We'll also do a quick overview of Kubernetes and its major components and concepts.
+
+- slug: typescript-javascript-on-steroids
+  speaker:
+    name: Justin Lee
+    link: https://github.com/juslee
+  talk:
+    title: "TypeScript: JavaScript on Steroids"
+    description: >
+      TypeScript is a typed superset of JavaScript that compiles to plain JavaScript, be it ES3,
+      ES5, ES6; runs on any browser, any host, any OS, and it's open source.
+
+
+      This technical talk will go through the various improvements of TypeScript, writing Angular 2
+      and React in a more succinct, object-oriented, typed way yet still having all the flexibility
+      and benefits of JavaScript.
+
+- slug: hyperledger-project-updates-from-the-blockchain
+  speaker:
+    name: Justin Lee
+    link: https://github.com/juslee
+  talk:
+    title: "HyperLedger Project: Updates from the Blockchain"
+    description: >
+      This is the 3rd installation of my talk on HyperLedger Project. There have been new
+      developments, with Sawtooth Lake (from Intel) now publicly available, new protocols, chain
+      code, and consensus models.
+
+
+      This technical talk will not only cover the concepts of Blockchain and the updates on the
+      HyperLedger Project, but also show you how to set up and deploy Fabric and/or Sawtooth Lake,
+      running your own Blockchain and start recording into your ledger.
