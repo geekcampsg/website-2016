@@ -118,7 +118,7 @@
     name: Ruiwen Chua
     link: https://github.com/ruiwen
   talk:
-    title: "Kubernetes for Small Organisations: Is it worth it?"
+    title: "Kubernetes for Small Organisations: Is It Worth It?"
     description: >
       A common refrain is that "big" orchestration frameworks like Kubernetes may not be worth the
       effort to implement, particularly in small organisations that are resource-strapped. I'd like
