@@ -158,3 +158,73 @@
       This technical talk will not only cover the concepts of Blockchain and the updates on the
       HyperLedger Project, but also show you how to set up and deploy Fabric and/or Sawtooth Lake,
       running your own Blockchain and start recording into your ledger.
+
+- slug: blockchain-powered-secure-document-access-control
+  speaker:
+    name: Gaurang Torvekar
+    link: https://github.com/gaurangtorvekar
+  talk:
+    title: Blockchain Powered Secure Document Access Control S(DAC)
+    description: >
+      This talk will be focused on S(DAC), which is a system developed by Attores to convert
+      Contractual Agreements into Smart Contracts on the blockchain. This has use cases for
+      Financial Institutions, Insurance Companies, Government Registries, Hospitals, etc. The
+      platform can help compress workflows, thus leading to increases in efficiency and reductions
+      in costs in several antiquated industries which still use fax machines and snail mail or are
+      not sharing vital data with one another securely.
+
+- slug: what-you-should-know-about-streams
+  speaker:
+    name: Raymond Tay
+    link: https://github.com/raygit
+  talk:
+    title: What You Should Know About Streams
+    description: >
+      The way we consume services from the Internet today includes many instances of streaming
+      data, both downloading from a service as well as uploading to it or peer-to-peer data
+      transfers. Regarding data as a stream of elements instead of in its entirety is very useful
+      because it matches the way computers send and receive them (for example via TCP), but it is
+      often also a necessity because data sets frequently become too large to be handled as a whole.
+      We spread computations or analyses over large clusters and call it “big data”, where the whole
+      principle of processing them is by feeding those data sequentially—as a stream—through some
+      CPUs.
+
+
+      This talk is a primer to understanding how the Akka Streams API work, its motivation and
+      design.
+
+- slug: np-vpn-project
+  speaker:
+    name: Woo Huiren
+    link: https://github.com/giantcrab
+  talk:
+    title: NP VPN Project
+    description: >
+      I've started out an infrastructure project a few years ago to help students bypass the Ngee
+      Ann Poly's firewall so that they will be able to access servers through SSH, play online
+      multiplayer games and many more.
+
+
+      In this technical talk, I'll be going through the problems I've faced, and solutions I've
+      found and experimented with.
+
+- slug: perspectives-on-ble-hardware-firmware-and-software
+  speaker:
+    name: Sayanee Basu
+    link: https://github.com/sayanee
+  talk:
+    title: "Perspectives on BLE: Hardware, Firmware and Software"
+    description: >
+      I'm learning to build a simple keychain with sensors that can tell the owners about some
+      environmental status through BLE and their iPhone app.
+
+
+      In this talk, I will be covering the BLE protocol and how to build both the hardware and app
+      to view the sensor data. What are some key things to look out for in the BLE protocol? What
+      are some of the common hardware chips, dev kits and firmware API? What are some hardware tools
+      to work on a MacOS? On the software side of things I will be touching on the web bluetooth
+      API, node js and Swift iOS to build an iPhone app.
+
+
+      Building with BLE can be pretty fun for quick short-range wireless applications! And I hope
+      to share my learning with the GeekCamp audience.
