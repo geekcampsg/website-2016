@@ -39,6 +39,7 @@
       It also has great performance.
 
 - slug: exploring-one-source-repo-to-rule-them-all
+  hidden: true
   speaker:
     name: Björn Andersson
     link: https://github.com/gaqzi
