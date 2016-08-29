@@ -209,6 +209,7 @@
       found and experimented with.
 
 - slug: perspectives-on-ble-hardware-firmware-and-software
+  hidden: true
   speaker:
     name: Sayanee Basu
     link: https://github.com/sayanee
@@ -228,3 +229,22 @@
 
       Building with BLE can be pretty fun for quick short-range wireless applications! And I hope
       to share my learning with the GeekCamp audience.
+
+- slug: zero-to-devops-with-team-services
+  speaker:
+    name: Louis Leong
+  talk:
+    title: Zero to DevOps with Team Services
+    description: >
+      Learn some tips and tools on DevOps as we walk through how to create an entire DevOps pipeline from scratch.
+
+- slug: a-step-into-mixed-reality-developing-with-holoLens
+  speaker:
+    name: Chew Rong Kang
+  talk:
+    title: "A Step into Mixed Reality: Developing with HoloLens"
+    description: >
+      Developing on the cutting edge of AR/VR tech platforms is a rare opportunity to come by. Microsoft HoloLens is one of these, especially with its high cost.
+
+
+      In this talk, I will share about my experiences on developing mixed reality apps for HoloLens, including the best use cases and best practices on this new frontier.
