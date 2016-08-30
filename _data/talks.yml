@@ -248,3 +248,23 @@
 
 
       In this talk, I will share about my experiences on developing mixed reality apps for HoloLens, including the best use cases and best practices on this new frontier.
+
+- slug: rust-make-system-programming-great-again
+  speaker:
+    name: Omer Iqbal
+  talk:
+    title: "Rust: Make System Programming Great Again!"
+    link: https://github.com/olenhad
+    description: >
+      Segfaults, Buffer Overflows, Data Races and Memory Leaks cross over unprotected memory with ease.
+      They steal our jobs, crash our code, cause vulnerabilities in openssl. We need to be tough.
+      The liberals from C and C++ have kept these borders open for too long. It's time to build a wall...
+
+
+      Rust is a systems programming language designed for speed, safety, concurrency and hype. It features
+      a radical memory model that gives YOU control, rather than those pesky garbage collectors,
+      while still maintaining compile time safety gurantees.
+
+
+      This talk will introduce Rust, focusing on the fabled memory model, the motivations behind it's design and
+      the consequences.
