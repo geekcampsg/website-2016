@@ -19,7 +19,8 @@
       during second week of September alongside iOS 10.
 
 
-      The talk will cover what's new in Swift 3 and why most iOS developers should adopt Swift sooner.
+      The talk will cover what's new in Swift 3 and why most iOS developers should adopt Swift
+      sooner.
 
 - slug: ractive-js-make-your-life-as-webdev-simpler
   speaker:
@@ -124,7 +125,8 @@
       A common refrain is that "big" orchestration frameworks like Kubernetes may not be worth the
       effort to implement, particularly in small organisations that are resource-strapped. I'd like
       to share our experience at Lomotif in shifting our production architecture over to Kubernetes,
-      the rationale for doing so, and naturally, the wins and frustrations we experienced along the way.
+      the rationale for doing so, and naturally, the wins and frustrations we experienced along the
+      way.
 
 
       We'll also do a quick overview of Kubernetes and its major components and concepts.
@@ -237,7 +239,8 @@
   talk:
     title: Zero to DevOps with Team Services
     description: >
-      Learn some tips and tools on DevOps as we walk through how to create an entire DevOps pipeline from scratch.
+      Learn some tips and tools on DevOps as we walk through how to create an entire DevOps pipeline
+      from scratch.
 
 - slug: a-step-into-mixed-reality-developing-with-holoLens
   speaker:
@@ -245,10 +248,12 @@
   talk:
     title: "A Step into Mixed Reality: Developing with HoloLens"
     description: >
-      Developing on the cutting edge of AR/VR tech platforms is a rare opportunity to come by. Microsoft HoloLens is one of these, especially with its high cost.
+      Developing on the cutting edge of AR/VR tech platforms is a rare opportunity to come by.
+      Microsoft HoloLens is one of these, especially with its high cost.
 
 
-      In this talk, I will share about my experiences on developing mixed reality apps for HoloLens, including the best use cases and best practices on this new frontier.
+      In this talk, I will share about my experiences on developing mixed reality apps for HoloLens,
+      including the best use cases and best practices on this new frontier.
 
 - slug: rust-make-system-programming-great-again
   speaker:
@@ -257,15 +262,69 @@
   talk:
     title: "Rust: Make System Programming Great Again!"
     description: >
-      Segfaults, Buffer Overflows, Data Races and Memory Leaks cross over unprotected memory with ease.
-      They steal our jobs, crash our code, cause vulnerabilities in openssl. We need to be tough.
-      The liberals from C and C++ have kept these borders open for too long. It's time to build a wall...
+      Segfaults, Buffer Overflows, Data Races and Memory Leaks cross over unprotected memory with
+      ease.  They steal our jobs, crash our code, cause vulnerabilities in openssl. We need to be
+      tough.  The liberals from C and C++ have kept these borders open for too long. It's time to
+      build a wall...
 
 
-      Rust is a systems programming language designed for speed, safety, concurrency and hype. It features
-      a radical memory model that gives YOU control, rather than those pesky garbage collectors,
-      while still maintaining compile time safety gurantees.
+      Rust is a systems programming language designed for speed, safety, concurrency and hype. It
+      features a radical memory model that gives YOU control, rather than those pesky garbage
+      collectors, while still maintaining compile time safety gurantees.
 
 
-      This talk will introduce Rust, focusing on the fabled memory model, the motivations behind it's design and
-      the consequences.
+      This talk will introduce Rust, focusing on the fabled memory model, the motivations behind
+      its design and the consequences.
+
+- slug: from-node-js-to-elixir-phoenix
+  speaker:
+    name: Teo Choong Ping
+    link: https://github.com/seymores
+  talk:
+    title: From Node.js to Elixir Phoenix
+    description: >
+      I want to share our experience of building our social network platform from the early
+      prototype version using Node.js to quickly migrated to Elixir Phoenix.
+
+      We will cover the design and implementation of a social network and how little it matters when
+      it comes to using Node.js or Elixir Phoenix.
+
+- slug: so-that-s-what-s-happening-to-my-project
+  speaker:
+    name: Harish Pillay
+    link: https://github.com/harishpillay
+  talk:
+    title: "“So, That's What's Happening to My Project”"
+    description: >
+      It is about getting a view of your project based on a consistent set of metrics that you can
+      then do comparison against other projects and also to gain insights on the "heartbeat" of the
+      project.
+
+- slug: data-engineering-for-analysts
+  speaker:
+    name: Hairizuan Noorazman
+    link: https://github.com/hairizuanbinnoorazman
+  talk:
+    title: Data Engineering for Analysts
+    description: >
+      Analysts have always been creating reports which they can then use for analysing the
+      performance of their business. Common tools they would use to do so are Spreadsheets but doing
+      so would mean that they would have to recreate the report each time it is requested. In order
+      to combat this, some would use R or VBA to automate some of the dataflows to make it easier to
+      recreate those said reports.
+
+      I will be sharing on how one can use R to integrate different technologies out there such as
+      Google BigQuery, Google Spreadsheets, Google Analytics and Slack in order to create automated
+      data flows for users.
+
+- slug: evolving-careers-how-i-switched-my-role-from-an-admin-to-a-javascript-developer
+  speaker:
+    name: Leticia Choo
+    link: https://github.com/letchoo
+  talk:
+    title: "Evolving Careers: How I Switched My Role from an Admin to a Javascript Developer"
+    description: >
+      I'm going to talk about how I started my job as an Admin and how I transitioned to a
+      Javascript Developer working on SkylinkJS, a library built upon a new technology called WebRTC
+      to enable video conferencing and IoT from your browsers to mobile phones, and to promote the
+      usefulness of learning coding.
