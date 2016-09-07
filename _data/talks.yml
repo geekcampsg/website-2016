@@ -328,3 +328,43 @@
       Javascript Developer working on SkylinkJS, a library built upon a new technology called WebRTC
       to enable video conferencing and IoT from your browsers to mobile phones, and to promote the
       usefulness of learning coding.
+
+- slug: concurrency-compared
+  speaker:
+    name: Anil Wadghule
+    link: https://github.com/anildigital
+  talk:
+    title: Concurrency Compared
+    description: >
+      In this talk we will compare different concurrency models of languages such as Ruby, Node.js,
+      JVM (Java/Clojure STM/Scala Actor) and Erlang.
+
+
+      Ruby supports concurrency but wit GIL, it cant run threads parallely. We will explore options
+      available that makes this problem irrelevant. Node.js doesn’t support concurrency or
+      parallelism.
+
+
+      Node.js is single threaded. It runs an event loop which makes non blocking IO possible. We
+      will explore why Node.js fits well to only certain types of problems only.
+
+
+      JVM supports native threads and thus achieves true parallelism. But in JVM memory is still
+      shared among different objects. We will explore JVM architecture in regards with memory. Where
+      JVM gets it wrong.
+
+
+      Erlang/Elixir achieves concurrency and parallelism with shared nothing, immutable data, first
+      class processes, actor model. We will explore whether this approach is better for solving
+      every kind of problem. Talk will have deep comparison with all of these platforms in regards
+      with what most real world project need.
+
+- slug: accelerating-app-development-with-firebase
+  speaker:
+    name: Manikantan K
+    link: http://www.slideshare.net/ManikantanKrishnamur
+  talk:
+    title: Accelerating App Development with Firebase
+    description: >
+      Announced in May 2016, Firebase is one of Google's newest Mobile Developer tools that help in
+      building great Mobile Apps, growing their userbase and monetizing from it.
