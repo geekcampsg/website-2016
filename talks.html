@@ -41,9 +41,13 @@ description: Attending Geekcamp.SG 2016? Vote for the talks you're interested in
     <div class="flex-row">
       <div class="flex-cell" data-header="Title"><a href="/{{ talk.slug | datapage_url: 'talks' }}">{{ talk.talk.title }}</a></div>
       <div class="flex-cell" data-header="Speaker">
+        {% if talk.speaker.link %}
         <a href="{{ talk.speaker.link }}">
+        {% endif %}
           {{ talk.speaker.name }}
+        {% if talk.speaker.link %}
         </a>
+        {% endif %}
       </div>
       <div class="flex-cell flex-cell-wide" data-header="Description"><p>{{ talk.talk.description | newline_to_br }}</p></div>
       <div class="flex-cell flex-cell-narrow" data-header="Vote">
