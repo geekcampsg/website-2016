@@ -368,3 +368,83 @@
     description: >
       Announced in May 2016, Firebase is one of Google's newest Mobile Developer tools that help in
       building great Mobile Apps, growing their userbase and monetizing from it.
+
+- slug: iot-development-using-ionic-framework
+  speaker:
+    name: Amol Chawathe
+    link: https://github.com/amolc
+  talk:
+    title: IOT Development using Ionic Framework
+    description: >
+      I would be speaking of using ionicframework and nodejs to build IOT applications.
+
+- slug: guide-to-programming-the-esp32
+  speaker:
+    name: William Hooi
+  talk:
+    title: Guide to Programming the ESP32
+    description: >
+      The Espressif System's ESP32 is a dual Wi-Fi/BT 'wonder' chip that is poised to be the
+      game-changer in the IoT space. Within days of announcing its availability to the market,
+      thousands of chips & modules were snapped up worldwide. As beta testers & evaluators of the
+      ESP32 prototype, we felt that while the hardware holds much promise, programming it will be
+      the biggest headache for those eager buyers. This is because unlike the ESP8266 which can be
+      program with non-OS and FreeRTOS, the ESP32 requires a new FreeRTOS-based architecture dev
+      framework known as the ESP-IDF.
+
+
+      At the point of writing/submission, the development for the
+      ESP-IDF is still ongoing. Working in collaboration with a few eminent hackers & engineers from
+      the region, I had the good fortune to code test some early versions of the upcoming ESP-32
+      development board from the designers of the Arduino Nano and Espresso Lite (codenamed the
+      Nano32). In this presentation I hope to do a basic programming demo e.g. controlling sensors
+      and actuators, connecting it to the web, making API calls, communicating with other
+      webservices, etc.
+
+- slug: create-a-3d-game-engine-for-pebble-smartwatch
+  speaker:
+    name: Shipeng Xu
+    link: https://github.com/billhsu
+  talk:
+    title: Create a 3D Game Engine for Pebble Smartwatch
+    description: >
+      I find Pebble really awesome. But something is missing for Pebble.. 3D games! This talk will
+      cover basic 3D rendering technics (like vertex shader, rasterization, etc) and apply them on
+      Pebble watch!
+
+- slug: my-learning-journey-in-futures-and-promises
+  speaker:
+    name: Ying Ka Ho
+  talk:
+    title: My Learning Journey in Futures and Promises
+    description: >
+      Futures and Promises pattern have taken a renewed interest in the 21st century in the field of
+      asynchronous programming. The .NET Framework has popularized the new constructs for such
+      patterns beginning with F# and then C#. Having worked with asynchronous programming in the
+      .NET framework since its introduction in C# in version 4.5 of the framework, I will share my
+      experience in learning, understanding and using such new constructs. This talk is generally
+      conceptual and not limited to .NET framework as there are other programming languages that
+      adopt (or are adopting) such patterns.
+
+- slug: graphql-in-an-age-of-rest
+  speaker:
+    name: Yos Riady
+    link: https://github.com/yosriady
+  talk:
+    title: GraphQL in an Age of REST
+    description: >
+      GraphQL is an application layer query language from Facebook. With GraphQL, you can define
+      your backend as a well-defined graph-based schema. Then client applications can query your
+      dataset as they are needed. GraphQL’s power comes from a simple idea — instead of defining the
+      structure of responses on the server, the flexibility is given to the client. Will GraphQL do
+      to REST what REST did to SOAP?
+
+- slug: server-side-swift-why-would-i-want-to-do-that
+  speaker:
+    name: See Yishu
+  talk:
+    title: "Server-Side Swift: Why Would I Want to Do That?"
+    description: >
+      It's hard to know of a developer who does not like Swift (probably not during major Swift
+      version upgrades, but). Swift is fast, safe and expressive, and not just for iOS apps. A brief
+      look into the current ecosystem and its potential.
