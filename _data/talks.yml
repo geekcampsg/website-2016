@@ -448,3 +448,71 @@
       It's hard to know of a developer who does not like Swift (probably not during major Swift
       version upgrades, but). Swift is fast, safe and expressive, and not just for iOS apps. A brief
       look into the current ecosystem and its potential.
+
+- slug: cloud-will-not-fix-your-broken-culture
+  speaker:
+    name: Sergiu Bodiu
+    link: https://github.com/sergiubodiu
+  talk:
+    title: Cloud Will Not Fix Your Broken Culture
+    description: >
+      Outline/structure of the Session
+
+
+      <ul>
+      <li>A Brief History of WaterScrumFall</li>
+      <li>The importance of Agile and DevOps</li>
+      <li>High Performance Organizations</li>
+      <li>Continuous Delivery and Microservices</li>
+      <li>Top-down vs Bottom up transformation</li>
+      <li>Call to action and Conclusion</li>
+      </ul>
+
+
+      Incremental improvement is better than sequential waterfall delivery. Cloud is not a “silver
+      bullet”, there is no flowchart, no checklist, no shopping list of tick boxes that will make
+      everything better. Tools are essential, but how we implement the tools and grow the culture
+      and practices in our organizations needs even more attention. Whether you’re just starting to
+      implement technical and organizational change, or facing the prospect that you already have
+      legacy microservices, it’s worth considering the why and the how of our behaviors, not just
+      the what.
+
+- slug: an-unexpected-use-for-a-cardboard-box-listening-to-the-moon
+  speaker:
+    name: Roland Turner
+    link: https://github.com/rolandturner
+  talk:
+    title: "An Unexpected Use for a Cardboard Box: Listening to the Moon"
+    description: >
+      At last year's Geekcamp.SG I spoke about amateur satellite communication, my intention to
+      build an automated tracker to simplify the process, and my longer term objective of
+      communicating via the Moon. The tracker is now built and working but, in the best tradition of
+      side-projects spawning their own side-projects, I have since realised that the tracker has
+      direct application to Earth-Moon communication when combined with ...a cardboard box.
+
+
+      I am not making this up.
+
+
+      Come and hear how this insane experiment will work (or, if I am very lucky, did work).
+
+- slug: traveling-in-a-foreign-country-with-luis
+  speaker:
+    name: Goh Chun Ln
+    link: https://github.com/
+  talk:
+    title: Traveling in a Foreign Country with LUIS
+    description: >
+      Travelling is an adventurous activity, but we at the same time also worry about the unknown
+      especially when you are visiting countries where they don't speak the same language as you.
+
+
+      With the new Microsoft Cognitive Service, Language Understanding Intelligent Service (LUIS)
+      and Google Cloud Speech API, I have done a simple Android app which helps translating your
+      speech from one language by understand human language. In this talk, I will share with you
+      experience and challenges I faced when I was playing with these two cool APIs from Microsoft
+      and Google.
+
+
+      I will also talk about another API integrated in the app which makes the app communicates with
+      emotions.
