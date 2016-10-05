@@ -277,6 +277,7 @@
       its design and the consequences.
 
 - slug: from-node-js-to-elixir-phoenix
+  hidden: true
   speaker:
     name: Teo Choong Ping
     link: https://github.com/seymores
