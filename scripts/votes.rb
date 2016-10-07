@@ -4,7 +4,7 @@ require 'json'
 require 'net/http'
 require 'yaml'
 
-NUM_TALKS = 12
+NUM_TALKS = 8
 
 def talk_uri(talk)
   "https://www.geekcamp.sg/talks/#{talk['slug']}.html"
