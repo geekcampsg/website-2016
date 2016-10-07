@@ -7,7 +7,7 @@ require 'yaml'
 NUM_TALKS = 12
 
 def talk_uri(talk)
-  "http://www.geekcamp.sg/talks/#{talk['slug']}.html"
+  "https://www.geekcamp.sg/talks/#{talk['slug']}.html"
 end
 
 def script_path
@@ -20,7 +20,8 @@ talks.each do |talk|
   uri = URI("http://graph.facebook.com/#{talk_uri talk}")
   data = Net::HTTP.get(uri)
   js = JSON.parse(data)
-  talk[:votes] = js.fetch('shares', 0)
+  talk[:votes] = js.fetch('share', {}).fetch('share_count', -1)
+  sleep(20)
 end
 
 talks.select! { |t| !t['hidden'] }
