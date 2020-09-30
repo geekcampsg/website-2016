@@ -9,13 +9,13 @@ This website uses jekyll.
 - If you don't want to link to your Twitter or GitHub profile, leave speaker.link as an empty string
 - Submit a pull request!
 
-## Adding Team Members
+## Adding the new Team Members
 
 - Add your photo to images/
 - Edit \_data/members.yml
   - Please ensure this file remains in alphabetical order.
 
-## Testing
+## Here Testing
 
 - `gem install jekyll`
 - `jekyll serve`
