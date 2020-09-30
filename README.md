@@ -17,5 +17,5 @@ This website uses jekyll.
 
 ## Testing
 
-- `gem install jekyll`
+- `amazing code`
 - `jekyll serve`
