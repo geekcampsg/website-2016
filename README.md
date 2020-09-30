@@ -1,6 +1,7 @@
 # Geekcamp.SG
 
 This website uses jekyll.
+For more visit https://geekcamp.sg/
 
 ## Submitting Talks
 
