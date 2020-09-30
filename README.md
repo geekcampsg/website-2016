@@ -14,7 +14,8 @@ This website uses jekyll.
 - Add your photo to images/
 - Edit \_data/members.yml
   - Please ensure this file remains in alphabetical order.
-
+-Make fun together 
+-Enjoy with your friends
 ## Testing
 
 - `gem install jekyll`
