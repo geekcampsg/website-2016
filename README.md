@@ -1,4 +1,4 @@
-# Geekcamp.SG
+# Geekcamp.SG-An Amazing Project
 
 This website uses jekyll.
 
@@ -19,3 +19,5 @@ This website uses jekyll.
 
 - `gem install jekyll`
 - `jekyll serve`
+
+Thank You!!
