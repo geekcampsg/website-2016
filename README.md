@@ -1,6 +1,6 @@
 # Geekcamp.SG
 
-This website uses jekyll.
+This website uses Cookies.
 
 ## Submitting Talks
 
