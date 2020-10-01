@@ -1,6 +1,6 @@
 # Geekcamp.SG
 
-This website uses jekyll.
+This website uses jekyll. This is a great Project
 
 ## Submitting Talks
 
