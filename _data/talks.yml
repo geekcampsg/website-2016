@@ -507,6 +507,10 @@
       Travelling is an adventurous activity, but we at the same time also worry about the unknown
       especially when you are visiting countries where they don't speak the same language as you.
 
+- slug: hack-to-ber-fest
+  speaker:
+    name: Tanishq Bhatt
+    link: https://github.com/tb-rules10
 
       With the new Microsoft Cognitive Service, Language Understanding Intelligent Service (LUIS)
       and Google Cloud Speech API, I have done a simple Android app which helps translating your
