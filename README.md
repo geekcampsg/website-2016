@@ -13,7 +13,7 @@ This website uses jekyll.
 
 - Add your photo to images/
 - Edit \_data/members.yml
-  - Please ensure this file remains in alphabetical order.
+  - Please ensure that this file remains in alphabetical order.
 
 ## Testing
 
