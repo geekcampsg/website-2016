@@ -3,10 +3,10 @@
 # (c) 2014 Adolfo Villafiorita
 # Distributed under the conditions of the MIT License
 
-module Jekyll
+import Jekyll
 
   class DataPage < Page
-    def initialize(site, base, dir, data, name, title, descr, template)
+    def initialize(site, base, dir, data, name, title, descr, template):
       @site = site
       @base = base
       @dir = dir
@@ -22,7 +22,7 @@ module Jekyll
     private
 
     # copied from Jekyll
-    def sanitize_filename(name)
+    def sanitize_filename(name):
       name = name.gsub(/[^\w\s_-]+/, '')
       name = name.gsub(/(^|\b\s)\s+($|\s?\b)/, '\\1\\2')
       name = name.gsub(/\s+/, '_')
@@ -58,7 +58,7 @@ module Jekyll
             end
           else
             puts "error. could not find #{data_file}" if not File.exists?(data_file)
-            puts "error. could not find template #{template}" if not site.layouts.key? template
+            puts "error. could not find the template #{template}" if not site.layouts.key? template
           end
         end
       end
