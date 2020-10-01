@@ -1,3 +1,4 @@
+This is amazing project
 # Geekcamp.SG
 
 This website uses jekyll.
