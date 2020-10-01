@@ -1,5 +1,4 @@
-# Geekcamp.SG
-The geekiest event for Geeks in Singapore.
+# Geekcamp.SG-the geekiest event for Geeks in Singapore
 
 This website uses jekyll.
 
