@@ -1,7 +1,7 @@
 # Geekcamp.SG
 
 This website uses jekyll.
-
+with Amazing Stuffs and Helpful Content
 ## Submitting Talks
 
 - Edit \_data/talks.yml
