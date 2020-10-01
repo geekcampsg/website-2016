@@ -1,5 +1,5 @@
 # Geekcamp.SG
-
+This is a very genuine website. It is helpful for all of us. 
 This website uses jekyll.
 
 ## Submitting Talks
