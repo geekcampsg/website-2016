@@ -1,6 +1,6 @@
-# Geekcamp.SG
+# Geekcamp.SG-amazing
 
-This website uses jekyll.
+This website uses jekyll and also the things which are used in devloping.
 
 ## Submitting Talks
 
