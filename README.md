@@ -2,6 +2,8 @@
 
 This website uses jekyll.
 
+##logr- this is an amezing website
+
 ## Submitting Talks
 
 - Edit \_data/talks.yml
