@@ -11,11 +11,11 @@ This website uses jekyll.
 
 ## Adding Team Members
 
-- Add your photo to images/
+- Add your clear image  to add member/
 - Edit \_data/members.yml
   - Please ensure this file remains in alphabetical order.
 
 ## Testing
-
+The member who applied there the no use special character to your username.
 - `gem install jekyll`
 - `jekyll serve`
