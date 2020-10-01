@@ -1,4 +1,4 @@
-# Geekcamp.SG
+# Geekcamp.SG - one must check this out.
 
 This website uses jekyll.
 
