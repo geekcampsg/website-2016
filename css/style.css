@@ -16,7 +16,7 @@ h6, .h6 {
   margin-top: 0;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: normal;
-  color: #333;
+  color: #333333;
 }
 
 
@@ -37,7 +37,7 @@ h6, .h6 {
 .jumbotron {
   background-color: #00b534;
   color: #fff;
-  padding: 30px;
+  padding: 32px;
 }
 
 .jumbotron h2 {
