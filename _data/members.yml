@@ -1,13 +1,13 @@
-- name: Rahul AG
+- name : Rahul AG
   image: rahul.png
-  link: https://twitter.com/agrahul
+  link : https://twitter.com/agrahul
 
-- name: Shanmugam MPl
+- name : Shanmugam MPl
   image: shan.jpg
-  link: https://twitter.com/shannietron
+  link : https://twitter.com/shannietron
 
-- name: Terence Lim
+- name : Terence Lim
   image: terence.jpg
 
-- name: Valentine Chua
+- name : Valentine Chua
   image: valentine.jpg
