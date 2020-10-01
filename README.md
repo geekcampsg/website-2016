@@ -1,7 +1,7 @@
 # Geekcamp.SG
 
 This website uses jekyll.
-
+This is an amazing open source project.
 ## Submitting Talks
 
 - Edit \_data/talks.yml
@@ -13,7 +13,7 @@ This website uses jekyll.
 
 - Add your photo to images/
 - Edit \_data/members.yml
-  - Please ensure this file remains in alphabetical order.
+  - Please ensure this file remains in alphabetical order (A to Z).
 
 ## Testing
 
