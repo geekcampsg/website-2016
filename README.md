@@ -1,4 +1,4 @@
-# Geekcamp.SG
+# Geeksman_TheRoyals
 
 This website uses jekyll.
 
