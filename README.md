@@ -2,7 +2,7 @@
 
 This website uses jekyll.
 
-## Jekyll Installation in Linux
+Jekyll Installation in Linux
   1   sudo apt-get install ruby-full build-essential zlib1g-dev
   2   ~/.bashrc
   3   gem install jekyll bundler
