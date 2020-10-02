@@ -9,7 +9,7 @@ This website uses jekyll.
 - If you don't want to link to your Twitter or GitHub profile, leave speaker.link as an empty string
 - Submit a pull request!
 
-## Adding Team Members
+## Adding Team Members profile
 
 - Add your photo to images/
 - Edit \_data/members.yml
