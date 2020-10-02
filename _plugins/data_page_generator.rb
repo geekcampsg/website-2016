@@ -2,7 +2,7 @@
 # (c) 2015 Rahul AG
 # (c) 2014 Adolfo Villafiorita
 # Distributed under the conditions of the MIT License
-
+# More information about code
 module Jekyll
 
   class DataPage < Page
