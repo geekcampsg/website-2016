@@ -1,4 +1,4 @@
-# Geekcamp.SG
+# Geekcamp.SG is the best camp
 
 This website uses jekyll.
 
