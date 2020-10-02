@@ -6,6 +6,7 @@ This website uses jekyll.
   1   sudo apt-get install ruby-full build-essential zlib1g-dev
   2   ~/.bashrc
   3   gem install jekyll bundler
+  
 ## Submitting Talks
 
 - Edit \_data/talks.yml
