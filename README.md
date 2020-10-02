@@ -1,4 +1,4 @@
-# Geekcamp.SG
+# Geekcamp.SG (About)
 
 This website uses jekyll.
 
@@ -11,7 +11,7 @@ This website uses jekyll.
 
 ## Adding Team Members
 
-- Add your photo to images/
+- Add your photo to images/ folder
 - Edit \_data/members.yml
   - Please ensure this file remains in alphabetical order.
 
