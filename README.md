@@ -1,6 +1,6 @@
 # Geekcamp.SG An Amazing Project...
 
-This website uses jekyll.
+This website is created and based on jekyll.
 
 ## Submitting Talks
 
