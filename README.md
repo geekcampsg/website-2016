@@ -15,7 +15,7 @@ This website uses jekyll.
 - Edit \_data/members.yml
   - Please ensure this file remains in alphabetical order.
 
-## Testing
+## Testing welcome
 
 - `gem install jekyll`
 - `jekyll serve`
